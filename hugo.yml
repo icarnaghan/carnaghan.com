@@ -14,8 +14,8 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: ExampleSite
-  description: "ExampleSite description"
+  title: Ian Carnaghan
+  description: "I am a software developer and online educator who likes to keep up with all the latest in technology. I also manage cloud infrastructure, continuous monitoring, DevOps processes, security, and continuous integration and deployment."
   keywords: [Blog, Portfolio, PaperMod]
   author: Me
   # author: ["Me", "You"] # multiple authors
@@ -57,8 +57,8 @@ params:
   # profile-mode
   profileMode:
     enabled: false # needs to be explicitly set
-    title: ExampleSite
-    subtitle: "This is subtitle"
+    title: Ian Carnaghan
+    subtitle: "I am a software developer and online educator who likes to keep up with all the latest in technology. I also manage cloud infrastructure, continuous monitoring, DevOps processes, security, and continuous integration and deployment."
     imageUrl: "<img location>"
     imageWidth: 120
     imageHeight: 120
@@ -84,7 +84,7 @@ params:
 
   analytics:
     google:
-      SiteVerificationTag: "XYZabc"
+      SiteVerificationTag: "G-7Q7KDW64SY"
 
   cover:
     hidden: true # hide everywhere but not in structured data
