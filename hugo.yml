@@ -148,3 +148,5 @@ markup:
 permalinks:
   posts: /:title
   pages: /:title
+
+googleAnalytics: "G-7Q7KDW64SY"
