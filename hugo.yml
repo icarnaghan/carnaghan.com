@@ -56,10 +56,10 @@ params:
 
   # profile-mode
   profileMode:
-    enabled: false # needs to be explicitly set
+    enabled: true # needs to be explicitly set
     title: Ian Carnaghan
-    subtitle: "I am a software developer and online educator who likes to keep up with all the latest in technology. I also manage cloud infrastructure, continuous monitoring, DevOps processes, security, and continuous integration and deployment."
-    imageUrl: "<img location>"
+    subtitle: "Software developer and online educator who likes to keep up with all the latest in technology."
+    imageUrl: "/images/icarnaghan.jpg"
     imageWidth: 120
     imageHeight: 120
     imageTitle: my image
