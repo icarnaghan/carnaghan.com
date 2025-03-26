@@ -17,8 +17,7 @@ params:
   title: Ian Carnaghan
   description: "I am a software developer and online educator who likes to keep up with all the latest in technology. I also manage cloud infrastructure, continuous monitoring, DevOps processes, security, and continuous integration and deployment."
   keywords: [Blog, Portfolio, PaperMod]
-  author: Me
-  # author: ["Me", "You"] # multiple authors
+  author: ["icarnaghan"]
   images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
@@ -34,7 +33,7 @@ params:
   UseHugoToc: true
   disableSpecial1stPost: false
   disableScrollToTop: false
-  comments: false
+  comments: true
   hidemeta: false
   hideSummary: false
   showtoc: false
@@ -81,6 +80,12 @@ params:
       url: "https://stackoverflow.com/users/1933036/ian-carnaghan"
     - name: github
       url: "https://github.com/icarnaghan"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/icarnaghan/"
+    - name: youtube
+      url: "https://www.youtube.com/@IanCarnaghan"
+    - name: rss
+      url: "/index.xml"
 
   analytics:
     google:
@@ -150,3 +155,7 @@ permalinks:
   pages: /:title
 
 googleAnalytics: "G-7Q7KDW64SY"
+
+services:
+  disqus:
+    shortname: carnaghan

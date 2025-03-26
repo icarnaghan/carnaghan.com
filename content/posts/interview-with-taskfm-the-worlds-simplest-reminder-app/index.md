@@ -1,6 +1,6 @@
 ---
 author: "Jake"
-title: "Interview with Task.fm - The world&#039;s simplest reminder app"
+title: "Interview with Task.fm - The world's simplest reminder app"
 date: 2009-05-19
 categories: 
   - "business"
@@ -25,7 +25,7 @@ From a design perspective I was inspired by Twitter - it has a great, clean inte
 
 #### Does the website make a decent amount of money through the services provided? Are you planning on adding any other type of monetization to the site in the future?
 
-Although the site has only been live for a week or so, we are taking orders and yes, it's a "decent" amount. I won't go into any details on the future plans but we are currently developing a feature set for business users.
+Although the site has only been live for a week or so, we are taking orders and yes, it's a "decent" amount. I won't go into any details on the future plans but we are currently developing a feature set for business users.  
 
 ![](images/taskfm-screen1.jpg "taskfm-screen")
 
