@@ -1,10 +1,10 @@
+---
 author: "icarnaghan"
 title: "Philosophical Assumptions for Qualitative Research"
 date: 2013-03-25
 categories:
 
 - "ux-design"
-
 ---
 
 In any kind of work or study, we always bring a certain set of beliefs as well as philosophical assumptions.  Qualitative researchers understand the importance of beliefs and theories that inform their work and also actively write about them in their research. <!--more--> John Creswell in his book “Qualitative Inquiry and Research Design” describes these assumptions and frames them into interpretive frameworks so we can understand their significance to our own research.  For my doctoral thesis, I am exploring the feasibility of developing a formalized approach to curriculum mapping with the goal of developing a feature complete software solution.  Before I get there I must first define in greater depth the problem I am trying to solve and have chosen to explore some of the theoretical methods or approaches to qualitative research to better guide my efforts.
