@@ -1,11 +1,13 @@
 ---
 author: "icarnaghan"
 title: "Modern Design Approaches, Frameworks and Resources"
-date: 2019-07-12
+date: 2024-07-12
 categories: 
   - "ux-design"
 tags: 
   - "cmst-290"
+aliases:
+  - design-approaches-frameworks-and-resources
 ---
 
 Over the last few years, several web design trends have exploded in popularity and different frameworks and libraries have emerged to support them. It's been close to a decade since the term 'responsive' became mainstream and changed our way of thinking about the structure of our applications across devices. Since that time other design philosophies have followed as we sought ways to improve the user experience across a diverse range of platforms. At the same time tools and techniques have continued to improve to arm designers with the right frameworks, libraries and approaches to deliver the best user experiences possible. In this article I will cover some of the more popular design approaches and libraries that can be used to implement them. I'll conclude with a quick list of several wireframing tools that can also be used in design. I recommend checking out each of these resources via the links provided below.

@@ -1,6 +1,6 @@
 ---
 author: "icarnaghan"
-title: "Dependency Injection / Service Container Example"
+title: "Dependency Injection Service Container Example"
 date: 2016-08-22
 categories: 
   - "coding"
