@@ -1,14 +1,12 @@
 ---
 author: "icarnaghan"
-title: "Certified Kubernetes Administrator (CKA) Study Notes - Getting Started with kubectl"
+title: "CKA Study Notes - kubectl Basics"
 date: 2025-06-23
 categories: 
   - "coding"
 tags: 
   - "cka, kubernetes"
 ---
-
-# Starting with kubectl: A Quick Reference
 
 I've recently started studying for the Certified Kubernetes Administrator (CKA) exam and as such I'm capturing some of my study notes here. When you're first diving into Kubernetes, the command-line tool kubectl becomes your new best friend. But like any new tool, remembering the right commands can be challengins, especially when you're trying to troubleshoot or quickly inspect your cluster.
 
@@ -19,15 +17,15 @@ This is my own quick-reference guide for working with kubectl, with just enough 
 There are two main ways to interact with Kubernetes using `kubectl`:
 
 - **Imperative commands** – You tell Kubernetes *what to do right now*. Example:
-  ```
-  kubectl run mypod --image=nginx
-  ```
+```
+kubectl run mypod --image=nginx
+```
 
 - **Declarative configuration** – You define what the desired state should be in a YAML file, then apply it:
 
-  ```
-  kubectl apply -f pod.yaml
-  ```
+```
+kubectl apply -f pod.yaml
+```
 
 In general, imperative is useful for quick experiments or ad-hoc changes, while declarative is preferred for production environments where consistency, version control, and repeatability matter. 
 
