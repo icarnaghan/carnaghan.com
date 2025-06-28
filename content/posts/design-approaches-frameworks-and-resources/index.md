@@ -51,3 +51,7 @@ I want to wrap this up with a quick overview of some wireframing tools you might
 **Axure**: This application requires little explanation for anyone who has been in the User Experience (UX) space over the last few years. Axure provides comprehensive functionality, template libraries and is a popular choice in the enterprise. A free educational license can be obtained from their website.
 
 **Balsamiq**: This prototyping tool has also become very popular and provides pre-defined templates with a lower learning curve than Axure. Balsamiq also provides a free educational license option as well as a trial version.
+
+**Figma**: Another standout option widely adopted by product teams and individual designers alike. Its browser-based interface makes collaboration easy, allowing multiple stakeholders to view and comment in real time. Figma is particularly handy for teams working remotely or asynchronously, and it offers robust prototyping features that go beyond simple wireframes.
+
+**Sketch**: A macOS-based tool, has long been a favorite in the design community. While it initially focused on UI design, it has evolved to support a range of wireframing and prototyping workflows. Its intuitive interface and extensive plugin ecosystem make it a powerful choice, especially for designers already embedded in the Apple ecosystem.
