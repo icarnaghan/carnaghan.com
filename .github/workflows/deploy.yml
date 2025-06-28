@@ -5,6 +5,9 @@ on:
     branches:
       - main  # or your default branch
 
+permissions:
+  contents: write  # Required to deploy to GitHub Pages
+  
 jobs:
   build-deploy:
     runs-on: ubuntu-latest
