@@ -11,8 +11,15 @@
     </image>
     <generator>Hugo -- 0.147.9</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 23 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Jun 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.carnaghan.com/categories/coding/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Migration Experience from WordPress to Hugo</title>
+      <link>https://www.carnaghan.com/my-migration-experience-from-wordpress-to-hugo/</link>
+      <pubDate>Fri, 27 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/my-migration-experience-from-wordpress-to-hugo/</guid>
+      <description>How I simplified the deployment process of my Hugo-powered blog using GitHub Actions and GitHub Pages.</description>
+    </item>
     <item>
       <title>CKA Study Notes - kubectl Basics</title>
       <link>https://www.carnaghan.com/cka-study-notes-kubectl-basics/</link>

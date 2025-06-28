@@ -3,24 +3,36 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://www.carnaghan.com/categories/</loc>
-    <lastmod>2025-06-23T00:00:00+00:00</lastmod>
+    <lastmod>2025-06-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.carnaghan.com/tags/cicd/</loc>
+    <lastmod>2025-06-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.carnaghan.com/categories/coding/</loc>
+    <lastmod>2025-06-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.carnaghan.com/tags/hugo/</loc>
+    <lastmod>2025-06-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.carnaghan.com/</loc>
+    <lastmod>2025-06-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.carnaghan.com/my-migration-experience-from-wordpress-to-hugo/</loc>
+    <lastmod>2025-06-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.carnaghan.com/posts/</loc>
+    <lastmod>2025-06-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.carnaghan.com/tags/</loc>
+    <lastmod>2025-06-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.carnaghan.com/tags/wordpress/</loc>
+    <lastmod>2025-06-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.carnaghan.com/cka-study-notes-kubectl-basics/</loc>
     <lastmod>2025-06-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.carnaghan.com/tags/cka-kubernetes/</loc>
-    <lastmod>2025-06-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.carnaghan.com/categories/coding/</loc>
-    <lastmod>2025-06-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.carnaghan.com/</loc>
-    <lastmod>2025-06-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.carnaghan.com/posts/</loc>
-    <lastmod>2025-06-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.carnaghan.com/tags/</loc>
     <lastmod>2025-06-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.carnaghan.com/tags/cmst-290/</loc>
@@ -207,9 +219,6 @@
     <lastmod>2018-11-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.carnaghan.com/useful-wordpress-plugins-you-probably-didnt-know-about/</loc>
-    <lastmod>2018-11-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.carnaghan.com/tags/wordpress/</loc>
     <lastmod>2018-11-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.carnaghan.com/simple-predictive-modeling-with-watson-analytics/</loc>
