@@ -1,10 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Csec-640 on Ian Carnaghan</title>
     <link>https://www.carnaghan.com/tags/csec-640/</link>
     <description>Recent content in Csec-640 on Ian Carnaghan</description>
-    <generator>Hugo</generator>
+    <image>
+      <title>Ian Carnaghan</title>
+      <url>https://www.carnaghan.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://www.carnaghan.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.147.9</generator>
     <language>en</language>
     <lastBuildDate>Thu, 02 Feb 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.carnaghan.com/tags/csec-640/index.xml" rel="self" type="application/rss+xml" />
@@ -13,7 +18,8 @@
       <link>https://www.carnaghan.com/dns-rebinding-and-intrusion-detection-with-contextual-signatures/</link>
       <pubDate>Thu, 02 Feb 2017 00:00:00 +0000</pubDate>
       <guid>https://www.carnaghan.com/dns-rebinding-and-intrusion-detection-with-contextual-signatures/</guid>
-      <description>&lt;p&gt;This article summarizes and analyzes discussion from two different articles on the subjects of DNS Rebinding and the use of contextual signatures with Intrusion Detection Systems.&lt;/p&gt;&#xA;&lt;p&gt;DNS Rebinding is type of attack that was first documented in the mid 1990s. Since then it has become more prevalent through vulnerabilities inherent the way information is transmitted to and from a typical web browser using JavaScript. This topic is covered in depth along with the various methods of DNS rebinding, vulnerabilities and mitigations efforts.&lt;/p&gt;</description>
+      <description>&lt;p&gt;This article summarizes and analyzes discussion from two different articles on the subjects of DNS Rebinding and the use of contextual signatures with Intrusion Detection Systems.&lt;/p&gt;
+&lt;p&gt;DNS Rebinding is type of attack that was first documented in the mid 1990s. Since then it has become more prevalent through vulnerabilities inherent the way information is transmitted to and from a typical web browser using JavaScript. This topic is covered in depth along with the various methods of DNS rebinding, vulnerabilities and mitigations efforts.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Mitigating DoS or Distributed DoS (DDoS) attacks</title>
@@ -55,7 +61,8 @@
       <link>https://www.carnaghan.com/two-common-router-security-threats/</link>
       <pubDate>Tue, 11 Oct 2016 00:00:00 +0000</pubDate>
       <guid>https://www.carnaghan.com/two-common-router-security-threats/</guid>
-      <description>&lt;p&gt;&lt;em&gt;Syn Flood or Denial of Service Attack&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;Syn Flood attacks, often referred to as Denial of Service Attacks are caused through exploitation of the TCP protocol. The attacker sends a large number of TCP/SYN packets using a forged address. Because of this, the destination server is unable to successfully establish a proper connection due to the source being unreachable. Lawrence (n.d.). Each time the server attempts to establish a connection, resources are used up with the flooding of packets causing eventual slow down or non-responsiveness.&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;em&gt;Syn Flood or Denial of Service Attack&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Syn Flood attacks, often referred to as Denial of Service Attacks are caused through exploitation of the TCP protocol. The attacker sends a large number of TCP/SYN packets using a forged address. Because of this, the destination server is unable to successfully establish a proper connection due to the source being unreachable. Lawrence (n.d.). Each time the server attempts to establish a connection, resources are used up with the flooding of packets causing eventual slow down or non-responsiveness.&lt;/p&gt;</description>
     </item>
     <item>
       <title>What are Rogue Access Points?</title>
@@ -69,14 +76,22 @@
       <link>https://www.carnaghan.com/installing-wireshark-on-mac-os-x-yosemite/</link>
       <pubDate>Sun, 18 Sep 2016 00:00:00 +0000</pubDate>
       <guid>https://www.carnaghan.com/installing-wireshark-on-mac-os-x-yosemite/</guid>
-      <description>&lt;p&gt;Wireshark is a software application for protocol and network traffic analysis, also known as a network sniffer. The application can be downloaded for free at https://www.wireshark.org/#download. I downloaded Wireshark from the url and selected the macOS 10.6 .dmg file. I was able to successfully mount the download image and run the package installer which kept all the default settings with the following installed in my system:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;em&gt;/Applications/Wireshark.app&lt;/em&gt;. The main Wireshark application.&lt;/li&gt;&#xA;&lt;li&gt;&lt;em&gt;/Library/LaunchDaemons/org.wireshark.ChmodBPF.plist&lt;/em&gt;. A launch daemon that adjusts permissions on the system&amp;rsquo;s packet capture devices (&lt;em&gt;/dev/bpf&lt;/em&gt;*) when the system starts up.&lt;/li&gt;&#xA;&lt;li&gt;&lt;em&gt;/Library/Application Support/Wireshark/ChmodBPF&lt;/em&gt; A copy of the launch daemon property list, and the script that the launch daemon runs.&lt;/li&gt;&#xA;&lt;li&gt;&lt;em&gt;/usr/local/bin&lt;/em&gt;. A wrapper script and symbolic links which will let you run Wireshark and its associated utilities from the command line. You can access them directly or by adding /usr/local/bin to your PATH if it&amp;rsquo;s not already in your PATH.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;(Source: Wireshark Read Me First.rtf)&lt;/p&gt;</description>
+      <description>&lt;p&gt;Wireshark is a software application for protocol and network traffic analysis, also known as a network sniffer. The application can be downloaded for free at https://www.wireshark.org/#download. I downloaded Wireshark from the url and selected the macOS 10.6 .dmg file. I was able to successfully mount the download image and run the package installer which kept all the default settings with the following installed in my system:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;/Applications/Wireshark.app&lt;/em&gt;. The main Wireshark application.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;/Library/LaunchDaemons/org.wireshark.ChmodBPF.plist&lt;/em&gt;. A launch daemon that adjusts permissions on the system&amp;rsquo;s packet capture devices (&lt;em&gt;/dev/bpf&lt;/em&gt;*) when the system starts up.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;/Library/Application Support/Wireshark/ChmodBPF&lt;/em&gt; A copy of the launch daemon property list, and the script that the launch daemon runs.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;/usr/local/bin&lt;/em&gt;. A wrapper script and symbolic links which will let you run Wireshark and its associated utilities from the command line. You can access them directly or by adding /usr/local/bin to your PATH if it&amp;rsquo;s not already in your PATH.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;(Source: Wireshark Read Me First.rtf)&lt;/p&gt;</description>
     </item>
     <item>
       <title>TCP Congestion Control</title>
       <link>https://www.carnaghan.com/tcp-congestion-control/</link>
       <pubDate>Sun, 18 Sep 2016 00:00:00 +0000</pubDate>
       <guid>https://www.carnaghan.com/tcp-congestion-control/</guid>
-      <description>&lt;p&gt;So it&amp;rsquo;s that time of year again where I decided to enroll in another Cybersecurity class at UMUC. I will be posting snippets from the class over the next few weeks. This week TCP Congestion Control was one of the topics I was looking at and so this post will serve as a high level overview.&lt;/p&gt;&#xA;&lt;p&gt;TCP Congestion Control is the process of monitoring and controlling network traffic in order to avoid congestion, which could lead to potential loss of packets and / or poor transmission rates. It determines the available capacity on the network and in turn is equipped with the information needed to know the number of packets that can be safely transmitted. Congestion control maintain a state variable for each connection called a congestion window, which is used to determine limits on the amount of data that can be sent at any given time. The size of the limits defined in this window change accordingly based on congestion levels via the process of the additive increase/multiplicative decrease (AIMD) algorithm. AIMD essentially lowers the limits of the congestion window when there is less congestion and raises them when congestion levels have increased.&lt;/p&gt;</description>
+      <description>&lt;p&gt;So it&amp;rsquo;s that time of year again where I decided to enroll in another Cybersecurity class at UMUC. I will be posting snippets from the class over the next few weeks. This week TCP Congestion Control was one of the topics I was looking at and so this post will serve as a high level overview.&lt;/p&gt;
+&lt;p&gt;TCP Congestion Control is the process of monitoring and controlling network traffic in order to avoid congestion, which could lead to potential loss of packets and / or poor transmission rates. It determines the available capacity on the network and in turn is equipped with the information needed to know the number of packets that can be safely transmitted. Congestion control maintain a state variable for each connection called a congestion window, which is used to determine limits on the amount of data that can be sent at any given time. The size of the limits defined in this window change accordingly based on congestion levels via the process of the additive increase/multiplicative decrease (AIMD) algorithm. AIMD essentially lowers the limits of the congestion window when there is less congestion and raises them when congestion levels have increased.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

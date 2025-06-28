@@ -1,10 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Blogging on Ian Carnaghan</title>
     <link>https://www.carnaghan.com/categories/blogging/</link>
     <description>Recent content in Blogging on Ian Carnaghan</description>
-    <generator>Hugo</generator>
+    <image>
+      <title>Ian Carnaghan</title>
+      <url>https://www.carnaghan.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://www.carnaghan.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.147.9</generator>
     <language>en</language>
     <lastBuildDate>Tue, 24 Sep 2019 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.carnaghan.com/categories/blogging/index.xml" rel="self" type="application/rss+xml" />
@@ -13,147 +18,187 @@
       <link>https://www.carnaghan.com/7-ways-to-improve-your-sites-crawlability-and-why-you-should/</link>
       <pubDate>Tue, 24 Sep 2019 00:00:00 +0000</pubDate>
       <guid>https://www.carnaghan.com/7-ways-to-improve-your-sites-crawlability-and-why-you-should/</guid>
-      <description>&lt;p&gt;While keyword research, link-building, content optimization, and other on-page strategies can improve your domain&amp;rsquo;s search ranking, search engine optimization (SEO) starts with getting your pages indexed and to do that you need to ensure they&amp;rsquo;re crawler-friendly.&lt;/p&gt;&#xA;&lt;p&gt;Crawler bots, like human users, appreciate sites which have clear, structured, readable data. However, since crawlers can only spend a limited amount of time and resources per site, domains with incoherent site maps, broken links, or 404 errors might not get indexed at all, effectively invisibilizing it for all potential users.&lt;/p&gt;</description>
+      <description>&lt;p&gt;While keyword research, link-building, content optimization, and other on-page strategies can improve your domain&amp;rsquo;s search ranking, search engine optimization (SEO) starts with getting your pages indexed and to do that you need to ensure they&amp;rsquo;re crawler-friendly.&lt;/p&gt;
+&lt;p&gt;Crawler bots, like human users, appreciate sites which have clear, structured, readable data. However, since crawlers can only spend a limited amount of time and resources per site, domains with incoherent site maps, broken links, or 404 errors might not get indexed at all, effectively invisibilizing it for all potential users.&lt;/p&gt;</description>
     </item>
     <item>
       <title>How to increase traffic to blog for free?</title>
       <link>https://www.carnaghan.com/how-to-increase-traffic-to-blog-for-free/</link>
       <pubDate>Tue, 24 Oct 2017 00:00:00 +0000</pubDate>
       <guid>https://www.carnaghan.com/how-to-increase-traffic-to-blog-for-free/</guid>
-      <description>&lt;p&gt;Starting a new blog is easy but making it popular is difficult. People find blogging as one of the easiest ways to make money online. Well, making money through a blog is not a piece of cake. Only websites getting decent traffic generate revenue for their owners.&lt;/p&gt;&#xA;&lt;p&gt;A successful blogger is one who earns enough money only to feed his family and pay internet and web hosting bills. Frankly speaking, the website&amp;rsquo;s fate depends on the traffic. If a site is getting traffic, it will make money for the owner. If it hardly gets visitors, it is of no use to the owner.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Starting a new blog is easy but making it popular is difficult. People find blogging as one of the easiest ways to make money online. Well, making money through a blog is not a piece of cake. Only websites getting decent traffic generate revenue for their owners.&lt;/p&gt;
+&lt;p&gt;A successful blogger is one who earns enough money only to feed his family and pay internet and web hosting bills. Frankly speaking, the website&amp;rsquo;s fate depends on the traffic. If a site is getting traffic, it will make money for the owner. If it hardly gets visitors, it is of no use to the owner.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Google Fred Update: Hybrid of Google Phantom and Penguin algorithms?</title>
       <link>https://www.carnaghan.com/google-fred-update-hybrid-of-google-phantom-and-penguin-algorithms/</link>
       <pubDate>Mon, 13 Mar 2017 00:00:00 +0000</pubDate>
       <guid>https://www.carnaghan.com/google-fred-update-hybrid-of-google-phantom-and-penguin-algorithms/</guid>
-      <description>&lt;p&gt;Google has rolled out a new algorithm update on 7th of March. The head of web spam team, Garry Illyes has named the new algorithm as Fred.&lt;/p&gt;&#xA;&lt;p&gt;The Google Fred update has killed the rankings of many websites overnight. It has brought people who were earning good amount of money online to their knees. Since 8th of March, many webmasters have reported that their sites have lost 80 to 90% traffic and some folks have reported a significant increase in organic traffic after March 8.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Google has rolled out a new algorithm update on 7th of March. The head of web spam team, Garry Illyes has named the new algorithm as Fred.&lt;/p&gt;
+&lt;p&gt;The Google Fred update has killed the rankings of many websites overnight. It has brought people who were earning good amount of money online to their knees. Since 8th of March, many webmasters have reported that their sites have lost 80 to 90% traffic and some folks have reported a significant increase in organic traffic after March 8.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Site deindexed by Google: Possible reasons why your website is removed</title>
       <link>https://www.carnaghan.com/site-deindexed-by-google-possible-reasons-why-your-website-is-removed/</link>
       <pubDate>Fri, 17 Feb 2017 00:00:00 +0000</pubDate>
       <guid>https://www.carnaghan.com/site-deindexed-by-google-possible-reasons-why-your-website-is-removed/</guid>
-      <description>&lt;p&gt;Site deindexed from Google is the worst nightmare for any blogger or business owner. When Google removes your site from its index, your AdSense earnings are down by 70 to 90%.&lt;/p&gt;&#xA;&lt;p&gt;If traffic from social networks to your site is high, you can recover the earnings by becoming an affiliate marketer. If your site doesn&amp;rsquo;t get good traffic from Facebook, Twitter or any other social site, your website will be of no use.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Site deindexed from Google is the worst nightmare for any blogger or business owner. When Google removes your site from its index, your AdSense earnings are down by 70 to 90%.&lt;/p&gt;
+&lt;p&gt;If traffic from social networks to your site is high, you can recover the earnings by becoming an affiliate marketer. If your site doesn&amp;rsquo;t get good traffic from Facebook, Twitter or any other social site, your website will be of no use.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The best way to deal with content scrapers</title>
       <link>https://www.carnaghan.com/the-best-way-to-deal-with-content-scrapers/</link>
       <pubDate>Tue, 17 Jan 2017 00:00:00 +0000</pubDate>
       <guid>https://www.carnaghan.com/the-best-way-to-deal-with-content-scrapers/</guid>
-      <description>&lt;p&gt;As we&amp;rsquo;ve mentioned in one of our blog posts, duplicate content is not good for the site&amp;rsquo;s health. When Google refreshes the Panda Algorithm, the search traffic of sites with duplicate content are affected the most.&lt;/p&gt;&#xA;&lt;p&gt;Webmasters with experience of creating search engine friendly sites by following the Google Webmaster Guidelines take care of content issues caused by the content management system. But they can&amp;rsquo;t identify scrapped content unless their site&amp;rsquo;s search engine traffic is impacted by a Google Algorithm Update.&lt;/p&gt;</description>
+      <description>&lt;p&gt;As we&amp;rsquo;ve mentioned in one of our blog posts, duplicate content is not good for the site&amp;rsquo;s health. When Google refreshes the Panda Algorithm, the search traffic of sites with duplicate content are affected the most.&lt;/p&gt;
+&lt;p&gt;Webmasters with experience of creating search engine friendly sites by following the Google Webmaster Guidelines take care of content issues caused by the content management system. But they can&amp;rsquo;t identify scrapped content unless their site&amp;rsquo;s search engine traffic is impacted by a Google Algorithm Update.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Advantages and Disadvantages of Blogging</title>
       <link>https://www.carnaghan.com/advantages-and-disadvantages-of-blogging/</link>
       <pubDate>Tue, 27 Dec 2016 00:00:00 +0000</pubDate>
       <guid>https://www.carnaghan.com/advantages-and-disadvantages-of-blogging/</guid>
-      <description>&lt;p&gt;You may have recently learned that blogging is one of the best ways to earn money online. Hence, you might be planning to quit your regular job and pursue a career in blogging or you have just completed your education and want to become a full-time blogger.&lt;/p&gt;&#xA;&lt;p&gt;Blogging is no doubt a great career option. If you become a successful blogger, you&amp;rsquo;ll make more money than a manager, team leader, chartered accountants, doctors, etc.&lt;/p&gt;</description>
+      <description>&lt;p&gt;You may have recently learned that blogging is one of the best ways to earn money online. Hence, you might be planning to quit your regular job and pursue a career in blogging or you have just completed your education and want to become a full-time blogger.&lt;/p&gt;
+&lt;p&gt;Blogging is no doubt a great career option. If you become a successful blogger, you&amp;rsquo;ll make more money than a manager, team leader, chartered accountants, doctors, etc.&lt;/p&gt;</description>
     </item>
     <item>
       <title>How to find and fix thin Content that leads to Google Panda penalty?</title>
       <link>https://www.carnaghan.com/how-to-find-and-fix-thin-content-that-leads-to-google-panda-penalty/</link>
       <pubDate>Tue, 13 Dec 2016 00:00:00 +0000</pubDate>
       <guid>https://www.carnaghan.com/how-to-find-and-fix-thin-content-that-leads-to-google-panda-penalty/</guid>
-      <description>&lt;p&gt;If your website is not performing well in the search engines, it is either hit by Google Penguin algorithm or has loads of thin content.&lt;/p&gt;&#xA;&lt;p&gt;If you have built backlinks manually or used a software to do so, it is likely that your website is affected by the real-time Penguin update.&lt;/p&gt;&#xA;&lt;p&gt;Go through the following articles to learn why Penguin algorithm has struck your website.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Google Penguin 4.0 Update Rolled Out : Biggest Seo Update&lt;/li&gt;&#xA;&lt;li&gt;Best Google Penalty Checker Tool For Sites Whose Traffic Is Down&lt;/li&gt;&#xA;&lt;li&gt;Why Blog Commenting Is The Worst Link Building Strategy?&lt;/li&gt;&#xA;&lt;li&gt;Guest Blogging Is Injurious To Your Blog And Online Career&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;If your website has plenty of thin pages, the Google Panda or Phantom algorithm may have killed the traffic of your website.&lt;/p&gt;</description>
+      <description>&lt;p&gt;If your website is not performing well in the search engines, it is either hit by Google Penguin algorithm or has loads of thin content.&lt;/p&gt;
+&lt;p&gt;If you have built backlinks manually or used a software to do so, it is likely that your website is affected by the real-time Penguin update.&lt;/p&gt;
+&lt;p&gt;Go through the following articles to learn why Penguin algorithm has struck your website.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Google Penguin 4.0 Update Rolled Out : Biggest Seo Update&lt;/li&gt;
+&lt;li&gt;Best Google Penalty Checker Tool For Sites Whose Traffic Is Down&lt;/li&gt;
+&lt;li&gt;Why Blog Commenting Is The Worst Link Building Strategy?&lt;/li&gt;
+&lt;li&gt;Guest Blogging Is Injurious To Your Blog And Online Career&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;If your website has plenty of thin pages, the Google Panda or Phantom algorithm may have killed the traffic of your website.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Why you shouldn&#39;t change WordPress theme often?</title>
       <link>https://www.carnaghan.com/why-you-shouldnt-change-wordpress-theme-often/</link>
       <pubDate>Mon, 28 Nov 2016 00:00:00 +0000</pubDate>
       <guid>https://www.carnaghan.com/why-you-shouldnt-change-wordpress-theme-often/</guid>
-      <description>&lt;p&gt;Guys, you may have seen the &amp;ldquo;Leverage browser caching&amp;rdquo; warning when you test your website&amp;rsquo;s speed with the Google page speed insights tool.&lt;/p&gt;&#xA;&lt;p&gt;After finding this message, you head over to Google and search methods to increase cache expiry time. After reading a tutorial on increasing expiry time for static content i.e. JavaSript, CSS files, you go ahead and modify the htaccess or Nginx configuration file.&lt;/p&gt;&#xA;&lt;p&gt;Do you know that if you set an abnormal expiration value to the static files (say 30 days or more), you may be committing a big mistake!&lt;/p&gt;</description>
+      <description>&lt;p&gt;Guys, you may have seen the &amp;ldquo;Leverage browser caching&amp;rdquo; warning when you test your website&amp;rsquo;s speed with the Google page speed insights tool.&lt;/p&gt;
+&lt;p&gt;After finding this message, you head over to Google and search methods to increase cache expiry time. After reading a tutorial on increasing expiry time for static content i.e. JavaSript, CSS files, you go ahead and modify the htaccess or Nginx configuration file.&lt;/p&gt;
+&lt;p&gt;Do you know that if you set an abnormal expiration value to the static files (say 30 days or more), you may be committing a big mistake!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Google Penguin 4.0 update rolled out : Biggest SEO update (2016)</title>
       <link>https://www.carnaghan.com/google-penguin-4.0-update-rolled-out-biggest-seo-update-2016/</link>
       <pubDate>Thu, 29 Sep 2016 00:00:00 +0000</pubDate>
       <guid>https://www.carnaghan.com/google-penguin-4.0-update-rolled-out-biggest-seo-update-2016/</guid>
-      <description>&lt;p&gt;Google has indexed over a billion web pages. It is the largest search engine in the world. Millions of sites depend on traffic from Google to earn revenue. Hence, when engineers working at Google roll out a new update, the SEO experts are excited and equally worried hoping that their or client sites don&amp;rsquo;t&amp;rsquo; lose traffic.&lt;/p&gt;&#xA;&lt;p&gt;A few days back, the head of webspam at Google revealed that the much awaited Penguin 4.0 algorithm update is now in action. The Algoroo graph indicated massive fluctuations in search engine results starting from September 1. It seems like Google began testing the Penguin 4.0 update from 1st September onward.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Google has indexed over a billion web pages. It is the largest search engine in the world. Millions of sites depend on traffic from Google to earn revenue. Hence, when engineers working at Google roll out a new update, the SEO experts are excited and equally worried hoping that their or client sites don&amp;rsquo;t&amp;rsquo; lose traffic.&lt;/p&gt;
+&lt;p&gt;A few days back, the head of webspam at Google revealed that the much awaited Penguin 4.0 algorithm update is now in action. The Algoroo graph indicated massive fluctuations in search engine results starting from September 1. It seems like Google began testing the Penguin 4.0 update from 1st September onward.&lt;/p&gt;</description>
     </item>
     <item>
       <title>WordPress vs Wix vs Blogger (Blogspot) : Best tool to build website is...</title>
       <link>https://www.carnaghan.com/wordpress-vs-wix-vs-blogger-blogspot-best-tool-to-build-website-is.../</link>
       <pubDate>Mon, 26 Sep 2016 00:00:00 +0000</pubDate>
       <guid>https://www.carnaghan.com/wordpress-vs-wix-vs-blogger-blogspot-best-tool-to-build-website-is.../</guid>
-      <description>&lt;p&gt;Wix has become a popular website builder ever since it switched to HTML5 from flash. WordPress is the king of all content management systems. Blogspot has been there for a long time. It is still trusted and used by 1000s of bloggers. So, which is the best content management for building a new site or blog? Go through below points to get the answer.&lt;/p&gt;&#xA;&lt;h3 id=&#34;wix-review&#34;&gt;Wix Review:&lt;/h3&gt;&#xA;&lt;p&gt;Winx supports various languages apart from English. It lets you log in with facebook or google account. If you log in, the site will ask you to select the category of the website you want to create. Wix lets users build the following types of websites:&lt;/p&gt;</description>
+      <description>&lt;p&gt;Wix has become a popular website builder ever since it switched to HTML5 from flash. WordPress is the king of all content management systems. Blogspot has been there for a long time. It is still trusted and used by 1000s of bloggers. So, which is the best content management for building a new site or blog? Go through below points to get the answer.&lt;/p&gt;
+&lt;h3 id=&#34;wix-review&#34;&gt;Wix Review:&lt;/h3&gt;
+&lt;p&gt;Winx supports various languages apart from English. It lets you log in with facebook or google account. If you log in, the site will ask you to select the category of the website you want to create. Wix lets users build the following types of websites:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Image SEO tips and tools to make photos search engine friendly</title>
       <link>https://www.carnaghan.com/image-seo-tips-and-tools-to-make-photos-search-engine-friendly/</link>
       <pubDate>Sun, 18 Sep 2016 00:00:00 +0000</pubDate>
       <guid>https://www.carnaghan.com/image-seo-tips-and-tools-to-make-photos-search-engine-friendly/</guid>
-      <description>&lt;p&gt;Do you know? Images can bring tons of high-quality organic traffic to your blog or website. A website without pictures looks strange. Visitors may not find such sites attractive. If the blog post doesn&amp;rsquo;t have related pictures, visitors may not read the full content.&lt;/p&gt;&#xA;&lt;p&gt;Today, we&amp;rsquo;ve shared 7 useful tips for image optimization. If your site has many pictures, but if it doesn&amp;rsquo;t get a good amount of traffic from Google image search, follow the below tips.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Do you know? Images can bring tons of high-quality organic traffic to your blog or website. A website without pictures looks strange. Visitors may not find such sites attractive. If the blog post doesn&amp;rsquo;t have related pictures, visitors may not read the full content.&lt;/p&gt;
+&lt;p&gt;Today, we&amp;rsquo;ve shared 7 useful tips for image optimization. If your site has many pictures, but if it doesn&amp;rsquo;t get a good amount of traffic from Google image search, follow the below tips.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Is BlogSpot or Blogger safe, better than WordPress?</title>
       <link>https://www.carnaghan.com/is-blogspot-or-blogger-safe-better-than-wordpress/</link>
       <pubDate>Mon, 29 Aug 2016 00:00:00 +0000</pubDate>
       <guid>https://www.carnaghan.com/is-blogspot-or-blogger-safe-better-than-wordpress/</guid>
-      <description>&lt;p&gt;Blogspot and blogger are the two faces of the same coin. Blogger was known as Blogspot but when Google bought it, people started calling the site Blogger. Google hasn&amp;rsquo;t destroyed Blogspot. Sites that are hosted on it are identified by the following domain name:&lt;/p&gt;&#xA;&lt;p&gt;&lt;code&gt;site_name.blogspot.com&lt;/code&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;is-blogspot-safe&#34;&gt;Is BlogSpot safe?&lt;/h3&gt;&#xA;&lt;p&gt;As Google owns Blogger, it is a much safer website than a self-hosted WP blog. If you enable two-factor authentication, it will be impossible for a hacker to take over your site because blogger asks users to enter their Gmail password to log into their profile. All websites powered by Google are secure. Have you ever heard that Gmail or Google got hacked?&lt;/p&gt;</description>
+      <description>&lt;p&gt;Blogspot and blogger are the two faces of the same coin. Blogger was known as Blogspot but when Google bought it, people started calling the site Blogger. Google hasn&amp;rsquo;t destroyed Blogspot. Sites that are hosted on it are identified by the following domain name:&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;site_name.blogspot.com&lt;/code&gt;&lt;/p&gt;
+&lt;h3 id=&#34;is-blogspot-safe&#34;&gt;Is BlogSpot safe?&lt;/h3&gt;
+&lt;p&gt;As Google owns Blogger, it is a much safer website than a self-hosted WP blog. If you enable two-factor authentication, it will be impossible for a hacker to take over your site because blogger asks users to enter their Gmail password to log into their profile. All websites powered by Google are secure. Have you ever heard that Gmail or Google got hacked?&lt;/p&gt;</description>
     </item>
     <item>
       <title>EMD SEO and Google : 3 Important things that you should know</title>
       <link>https://www.carnaghan.com/emd-seo-and-google-3-important-things-that-you-should-know/</link>
       <pubDate>Fri, 26 Aug 2016 00:00:00 +0000</pubDate>
       <guid>https://www.carnaghan.com/emd-seo-and-google-3-important-things-that-you-should-know/</guid>
-      <description>&lt;p&gt;Google penalizes spammy EMD sites, but do you know that Exact match domain names can outrank an authority site for a specific keyword? If you don&amp;rsquo;t know this, you are probably a newbie or an immature SEO professional. Here are the three important things that you should know as a Sear Engine Optimization professional.&lt;/p&gt;&#xA;&lt;h3 id=&#34;emd-domains-rank&#34;&gt;EMD domains rank&lt;/h3&gt;&#xA;&lt;p&gt;I can give 10 good examples that exact match domain names rank high for the keywords. Google starts ranking EMD sites only after a certain time period. The sites using EMD have 100s of polished articles with an average content length of 500 words.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Google penalizes spammy EMD sites, but do you know that Exact match domain names can outrank an authority site for a specific keyword? If you don&amp;rsquo;t know this, you are probably a newbie or an immature SEO professional. Here are the three important things that you should know as a Sear Engine Optimization professional.&lt;/p&gt;
+&lt;h3 id=&#34;emd-domains-rank&#34;&gt;EMD domains rank&lt;/h3&gt;
+&lt;p&gt;I can give 10 good examples that exact match domain names rank high for the keywords. Google starts ranking EMD sites only after a certain time period. The sites using EMD have 100s of polished articles with an average content length of 500 words.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Backlinks or content : What&#39;s more important?</title>
       <link>https://www.carnaghan.com/backlinks-or-content-whats-more-important/</link>
       <pubDate>Tue, 16 Aug 2016 00:00:00 +0000</pubDate>
       <guid>https://www.carnaghan.com/backlinks-or-content-whats-more-important/</guid>
-      <description>&lt;p&gt;Two of the most commonly used terms by bloggers and webmasters are backlinks and content. A site must have both else it will not rank in first seven pages of world&amp;rsquo;s busiest and largest search engine, Google.&lt;/p&gt;&#xA;&lt;p&gt;Backlinks aka inbound links are the most important criteria Google considers for ranking content of a website in their pages. One can easily prove this. Search for a product in Google. Popular sites with 1000s of backlinks will occupy first few pages.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Two of the most commonly used terms by bloggers and webmasters are backlinks and content. A site must have both else it will not rank in first seven pages of world&amp;rsquo;s busiest and largest search engine, Google.&lt;/p&gt;
+&lt;p&gt;Backlinks aka inbound links are the most important criteria Google considers for ranking content of a website in their pages. One can easily prove this. Search for a product in Google. Popular sites with 1000s of backlinks will occupy first few pages.&lt;/p&gt;</description>
     </item>
     <item>
       <title>How to get great blog post ideas for free in 2018?</title>
       <link>https://www.carnaghan.com/how-to-get-great-blog-post-ideas-for-free-in-2018/</link>
       <pubDate>Wed, 03 Aug 2016 00:00:00 +0000</pubDate>
       <guid>https://www.carnaghan.com/how-to-get-great-blog-post-ideas-for-free-in-2018/</guid>
-      <description>&lt;p&gt;Being a professional blogger is not easy. You will have to think about new blog post every day. Sometimes, you will struggle to get new ideas. You will be frustrated, depressed and think of quitting as a blogger.&lt;/p&gt;&#xA;&lt;p&gt;Before you take any major decision, go through the below top five places from which you can get new topics for your blog.&lt;/p&gt;&#xA;&lt;h2 id=&#34;how-to-get-new-blog-post-ideas&#34;&gt;How to get new blog post ideas?&lt;/h2&gt;&#xA;&lt;h3 id=&#34;use-rss-reader&#34;&gt;Use RSS reader:&lt;/h3&gt;&#xA;&lt;p&gt;Feedly and QuiteRSS are my favorite applications. Feedly is a web-based tool whereas QuiteRSS is a standalone desktop software for Windows OS. I switch between the two RSS readers whenever I am bored with one.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Being a professional blogger is not easy. You will have to think about new blog post every day. Sometimes, you will struggle to get new ideas. You will be frustrated, depressed and think of quitting as a blogger.&lt;/p&gt;
+&lt;p&gt;Before you take any major decision, go through the below top five places from which you can get new topics for your blog.&lt;/p&gt;
+&lt;h2 id=&#34;how-to-get-new-blog-post-ideas&#34;&gt;How to get new blog post ideas?&lt;/h2&gt;
+&lt;h3 id=&#34;use-rss-reader&#34;&gt;Use RSS reader:&lt;/h3&gt;
+&lt;p&gt;Feedly and QuiteRSS are my favorite applications. Feedly is a web-based tool whereas QuiteRSS is a standalone desktop software for Windows OS. I switch between the two RSS readers whenever I am bored with one.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Why Blog Commenting is the Worst Link Building Strategy?</title>
       <link>https://www.carnaghan.com/why-blog-commenting-is-the-worst-link-building-strategy/</link>
       <pubDate>Fri, 10 Jun 2016 00:00:00 +0000</pubDate>
       <guid>https://www.carnaghan.com/why-blog-commenting-is-the-worst-link-building-strategy/</guid>
-      <description>&lt;p&gt;Blog commenting is the worst strategy of link building.&lt;/p&gt;&#xA;&lt;p&gt;Many pro bloggers recommend their followers to drop a comment on high page rank or high domain authority blogs (with similar niche). I think, this is the worst tip ever.&lt;/p&gt;&#xA;&lt;p&gt;Have you seen the pro bloggers comment on other blogs which are more popular and have higher DA than their websites? The answer is no. Pro bloggers know that commenting on other sites will result in low-quality backlinks and their website&amp;rsquo;s traffic might be affected by this.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Blog commenting is the worst strategy of link building.&lt;/p&gt;
+&lt;p&gt;Many pro bloggers recommend their followers to drop a comment on high page rank or high domain authority blogs (with similar niche). I think, this is the worst tip ever.&lt;/p&gt;
+&lt;p&gt;Have you seen the pro bloggers comment on other blogs which are more popular and have higher DA than their websites? The answer is no. Pro bloggers know that commenting on other sites will result in low-quality backlinks and their website&amp;rsquo;s traffic might be affected by this.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Blogging mistakes that fail you as a blogger</title>
       <link>https://www.carnaghan.com/blogging-mistakes-that-fail-you-as-a-blogger/</link>
       <pubDate>Sat, 07 May 2016 00:00:00 +0000</pubDate>
       <guid>https://www.carnaghan.com/blogging-mistakes-that-fail-you-as-a-blogger/</guid>
-      <description>&lt;p&gt;Blogging is the best way to express thoughts, share knowledge and reviews. Starting a blog is easy, but making money through it is difficult. Many people abandon/delete their websites or fail to succeed online because of the below blogging mistakes:&lt;/p&gt;&#xA;&lt;h3 id=&#34;not-using-self-hosted-blogging-platform&#34;&gt;Not using self hosted blogging platform&lt;/h3&gt;&#xA;&lt;p&gt;A self hosted platform is one which allows you to install a blog software of your choice on a shared, cloud or a VPS server. It gives you freedom to use any type of extension or plugin you wish to use. Self hosted sites are easy to set up. To do so, you&amp;rsquo;ll have to buy a hosting plan from a reputed company like Hostgator, Bluehost, Siteground, etc.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Blogging is the best way to express thoughts, share knowledge and reviews. Starting a blog is easy, but making money through it is difficult. Many people abandon/delete their websites or fail to succeed online because of the below blogging mistakes:&lt;/p&gt;
+&lt;h3 id=&#34;not-using-self-hosted-blogging-platform&#34;&gt;Not using self hosted blogging platform&lt;/h3&gt;
+&lt;p&gt;A self hosted platform is one which allows you to install a blog software of your choice on a shared, cloud or a VPS server. It gives you freedom to use any type of extension or plugin you wish to use. Self hosted sites are easy to set up. To do so, you&amp;rsquo;ll have to buy a hosting plan from a reputed company like Hostgator, Bluehost, Siteground, etc.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Best Free Blog Hosting sites and their pros and cons</title>
       <link>https://www.carnaghan.com/best-free-blog-hosting-sites-and-their-pros-and-cons/</link>
       <pubDate>Wed, 04 May 2016 00:00:00 +0000</pubDate>
       <guid>https://www.carnaghan.com/best-free-blog-hosting-sites-and-their-pros-and-cons/</guid>
-      <description>&lt;p&gt;Hosting a website is an easy task, but choosing a company which offers this service is difficult. There are two types of hosting platforms, free and premium. Newbie or wannabe pro bloggers would prefer signing up with a free blog hosting site. An experienced webmaster will avoid it. If you&amp;rsquo;re wondering what&amp;rsquo;s the reason for the same, then go through the below cons and pros of FBHS.&lt;/p&gt;&#xA;&lt;h4 id=&#34;pros&#34;&gt;Pros:&lt;/h4&gt;&#xA;&lt;p&gt;&lt;strong&gt;Pocket-friendly&lt;/strong&gt;: Free blog hosting websites don&amp;rsquo;t come with any subscription plans. Your site will be hosted on their platform as long as you wish to use it and as long as the service is in existence.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Hosting a website is an easy task, but choosing a company which offers this service is difficult. There are two types of hosting platforms, free and premium. Newbie or wannabe pro bloggers would prefer signing up with a free blog hosting site. An experienced webmaster will avoid it. If you&amp;rsquo;re wondering what&amp;rsquo;s the reason for the same, then go through the below cons and pros of FBHS.&lt;/p&gt;
+&lt;h4 id=&#34;pros&#34;&gt;Pros:&lt;/h4&gt;
+&lt;p&gt;&lt;strong&gt;Pocket-friendly&lt;/strong&gt;: Free blog hosting websites don&amp;rsquo;t come with any subscription plans. Your site will be hosted on their platform as long as you wish to use it and as long as the service is in existence.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Guest Blogging is injurious to your Blog and Online Career</title>
       <link>https://www.carnaghan.com/guest-blogging-is-injurious-to-your-blog-and-online-career/</link>
       <pubDate>Sat, 09 Apr 2016 00:00:00 +0000</pubDate>
       <guid>https://www.carnaghan.com/guest-blogging-is-injurious-to-your-blog-and-online-career/</guid>
-      <description>&lt;p&gt;There was a time when bloggers used the guest blogging technique to create backlinks. For those who are not aware, in Guest blogging, SEO agencies or companies pay website owners or writers to publish a guest blog post with one or two backlinks to another site.&lt;/p&gt;&#xA;&lt;p&gt;Companies use this technique to rank their sites high in search engines. They are constantly in search of high domain authority websites or sites that have a valid Google page rank. When the company&amp;rsquo;s SEO executive find such site, he&amp;rsquo;ll drop an email to the webmaster asking them to publish a guest post in exchange for some USD or free product.&lt;/p&gt;</description>
+      <description>&lt;p&gt;There was a time when bloggers used the guest blogging technique to create backlinks. For those who are not aware, in Guest blogging, SEO agencies or companies pay website owners or writers to publish a guest blog post with one or two backlinks to another site.&lt;/p&gt;
+&lt;p&gt;Companies use this technique to rank their sites high in search engines. They are constantly in search of high domain authority websites or sites that have a valid Google page rank. When the company&amp;rsquo;s SEO executive find such site, he&amp;rsquo;ll drop an email to the webmaster asking them to publish a guest post in exchange for some USD or free product.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Should you disable WordPress comments or not?</title>
       <link>https://www.carnaghan.com/should-you-disable-wordpress-comments-or-not/</link>
       <pubDate>Mon, 21 Dec 2015 00:00:00 +0000</pubDate>
       <guid>https://www.carnaghan.com/should-you-disable-wordpress-comments-or-not/</guid>
-      <description>&lt;p&gt;People disable comments from their website thinking that spammers or hackers will not target their sites. Well, it&amp;rsquo;s true that this form is always responsible for spam, but you should never think of removing it. Spam can be easily avoided with Akismet or its alternatives.&lt;/p&gt;&#xA;&lt;p&gt;Comments are an important section of a website. Without it, your blog would look hostile and naked. No one would like to interact with you. Many people buy products from affiliate links only after reading comments. If you remove this form from your website, your conversion will be low. Moreover, the visitor will leave your site as soon as he finishes reading your post.&lt;/p&gt;</description>
+      <description>&lt;p&gt;People disable comments from their website thinking that spammers or hackers will not target their sites. Well, it&amp;rsquo;s true that this form is always responsible for spam, but you should never think of removing it. Spam can be easily avoided with Akismet or its alternatives.&lt;/p&gt;
+&lt;p&gt;Comments are an important section of a website. Without it, your blog would look hostile and naked. No one would like to interact with you. Many people buy products from affiliate links only after reading comments. If you remove this form from your website, your conversion will be low. Moreover, the visitor will leave your site as soon as he finishes reading your post.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Block referrer spam without plugin and Google Analytics filter</title>
       <link>https://www.carnaghan.com/block-referrer-spam-without-plugin-and-google-analytics-filter/</link>
       <pubDate>Sun, 04 Oct 2015 00:00:00 +0000</pubDate>
       <guid>https://www.carnaghan.com/block-referrer-spam-without-plugin-and-google-analytics-filter/</guid>
-      <description>&lt;p&gt;In the last few months, my Google Analytics account has started showing a lot of referrer spam sites like SexyAli, free-social-buttons, Semalt, etc. The spammers are screwing up my GA reports. I have some websites. Tho site with 1000s of visitors is not affected but for my new portals, the referrers are causing high bounce rate which makes the report data confusing.&lt;/p&gt;&#xA;&lt;p&gt;Some referrers seem to be attacking WordPress sites as the real-time reports show 30+ visitors (from spam sites) from various parts of the world.&lt;/p&gt;</description>
+      <description>&lt;p&gt;In the last few months, my Google Analytics account has started showing a lot of referrer spam sites like SexyAli, free-social-buttons, Semalt, etc. The spammers are screwing up my GA reports. I have some websites. Tho site with 1000s of visitors is not affected but for my new portals, the referrers are causing high bounce rate which makes the report data confusing.&lt;/p&gt;
+&lt;p&gt;Some referrers seem to be attacking WordPress sites as the real-time reports show 30+ visitors (from spam sites) from various parts of the world.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Track adsense clicks and invalid activity easily with these 2 tools</title>
@@ -167,7 +212,8 @@
       <link>https://www.carnaghan.com/best-social-bookmarking-sites-list-boost-rankings-of-your-website/</link>
       <pubDate>Tue, 22 Sep 2015 00:00:00 +0000</pubDate>
       <guid>https://www.carnaghan.com/best-social-bookmarking-sites-list-boost-rankings-of-your-website/</guid>
-      <description>&lt;p&gt;Social bookmarking websites are important as they can bring tons of visitors to your blog. They will also increase your post&amp;rsquo;s ranking and visibility in search engines. There are two categories of bookmarking sites, i.e., nofollow and dofollow.&lt;/p&gt;&#xA;&lt;p&gt;Most do follow sites that allow you to share links are considered as spam by Google. Sites that link to such bookmarking portals are penalized, and they don&amp;rsquo;t rank anywhere in top 20 to 25 pages of the search engine. People promoting these websites don&amp;rsquo;t know SEO, and you should avoid following their tips.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Social bookmarking websites are important as they can bring tons of visitors to your blog. They will also increase your post&amp;rsquo;s ranking and visibility in search engines. There are two categories of bookmarking sites, i.e., nofollow and dofollow.&lt;/p&gt;
+&lt;p&gt;Most do follow sites that allow you to share links are considered as spam by Google. Sites that link to such bookmarking portals are penalized, and they don&amp;rsquo;t rank anywhere in top 20 to 25 pages of the search engine. People promoting these websites don&amp;rsquo;t know SEO, and you should avoid following their tips.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Here&#39;s the reason why you should not buy backlinks</title>
@@ -181,49 +227,59 @@
       <link>https://www.carnaghan.com/must-have-best-blogger-widgets-2018/</link>
       <pubDate>Sun, 05 Jul 2015 00:00:00 +0000</pubDate>
       <guid>https://www.carnaghan.com/must-have-best-blogger-widgets-2018/</guid>
-      <description>&lt;p&gt;Blogger might not be offering too many fancy and responsive templates as WordPress, but it is a powerful CMS.&lt;/p&gt;&#xA;&lt;p&gt;In WordPress directory, there are a lot of plugins but in blogger, there are a few but useful widgets. Thus if you&amp;rsquo;re a person who doesn&amp;rsquo;t like to explore and try out new things, Blogger is the best CMS as you just have to add your favorite widgets by navigating to the layout page in Blogger and on that page you&amp;rsquo;ve to click on add gadget link.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Blogger might not be offering too many fancy and responsive templates as WordPress, but it is a powerful CMS.&lt;/p&gt;
+&lt;p&gt;In WordPress directory, there are a lot of plugins but in blogger, there are a few but useful widgets. Thus if you&amp;rsquo;re a person who doesn&amp;rsquo;t like to explore and try out new things, Blogger is the best CMS as you just have to add your favorite widgets by navigating to the layout page in Blogger and on that page you&amp;rsquo;ve to click on add gadget link.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Tips to register a new profitable top level domain name</title>
       <link>https://www.carnaghan.com/tips-to-register-a-new-profitable-top-level-domain-name/</link>
       <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
       <guid>https://www.carnaghan.com/tips-to-register-a-new-profitable-top-level-domain-name/</guid>
-      <description>&lt;p&gt;Registering a domain name is one of the most important activities of a person who wants to make an online career. But managing it and setting up a hosting service can be tricky. Name of a domain should be chosen wisely on the basis of below criteria.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Keywords&lt;/strong&gt;: A DN should have one or 2 keywords that will kelp users understand what your blog/site is all about. The keywords should not contain the names of large enterprises (and their products). For example Microsoft, Google, Amazon, Windows, etc. If you ignore this, you&amp;rsquo;ll face legal action in the future. The company might register a DMCA complaint against your site which will force search engines to remove your blog from their index.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Registering a domain name is one of the most important activities of a person who wants to make an online career. But managing it and setting up a hosting service can be tricky. Name of a domain should be chosen wisely on the basis of below criteria.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Keywords&lt;/strong&gt;: A DN should have one or 2 keywords that will kelp users understand what your blog/site is all about. The keywords should not contain the names of large enterprises (and their products). For example Microsoft, Google, Amazon, Windows, etc. If you ignore this, you&amp;rsquo;ll face legal action in the future. The company might register a DMCA complaint against your site which will force search engines to remove your blog from their index.&lt;/p&gt;</description>
     </item>
     <item>
       <title>5 smart ways to reduce blog bounce rate</title>
       <link>https://www.carnaghan.com/5-smart-ways-to-reduce-blog-bounce-rate/</link>
       <pubDate>Tue, 12 May 2015 00:00:00 +0000</pubDate>
       <guid>https://www.carnaghan.com/5-smart-ways-to-reduce-blog-bounce-rate/</guid>
-      <description>&lt;p&gt;In my perspective, bounce rate (BR) is one of the major search engine ranking signals for a blog. If it&amp;rsquo;s below 70, search engines like Bing, Google will love your site, and they&amp;rsquo;ll rank it higher than low-quality sites. If your site&amp;rsquo;s BR is high (above 90), it will rank low in search engines. If you&amp;rsquo;re an owner of such website, use the below strategies to reduce bounce rate.&lt;/p&gt;&#xA;&lt;h3 id=&#34;add-a-search-widget-in-sidebar&#34;&gt;Add a search widget in sidebar&lt;/h3&gt;&#xA;&lt;p&gt;Believe it or not guys! The search bar is one of the most important elements on a blog. All top blogs in the world will have a search utility. When a visitor lands on your website and doesn&amp;rsquo;t find a relevant article, he/she will use the search utility to find a relevant article. If your blog navigation is not good, the search bar will come in rescue. If your site doesn&amp;rsquo;t have it, add a search bar immediately. You can create one for your blog with Google CSE.&lt;/p&gt;</description>
+      <description>&lt;p&gt;In my perspective, bounce rate (BR) is one of the major search engine ranking signals for a blog. If it&amp;rsquo;s below 70, search engines like Bing, Google will love your site, and they&amp;rsquo;ll rank it higher than low-quality sites. If your site&amp;rsquo;s BR is high (above 90), it will rank low in search engines. If you&amp;rsquo;re an owner of such website, use the below strategies to reduce bounce rate.&lt;/p&gt;
+&lt;h3 id=&#34;add-a-search-widget-in-sidebar&#34;&gt;Add a search widget in sidebar&lt;/h3&gt;
+&lt;p&gt;Believe it or not guys! The search bar is one of the most important elements on a blog. All top blogs in the world will have a search utility. When a visitor lands on your website and doesn&amp;rsquo;t find a relevant article, he/she will use the search utility to find a relevant article. If your blog navigation is not good, the search bar will come in rescue. If your site doesn&amp;rsquo;t have it, add a search bar immediately. You can create one for your blog with Google CSE.&lt;/p&gt;</description>
     </item>
     <item>
       <title>How i increased blog traffic from search engines (Google &amp; Bing)</title>
       <link>https://www.carnaghan.com/how-i-increased-blog-traffic-from-search-engines-google-bing/</link>
       <pubDate>Sun, 26 Apr 2015 00:00:00 +0000</pubDate>
       <guid>https://www.carnaghan.com/how-i-increased-blog-traffic-from-search-engines-google-bing/</guid>
-      <description>&lt;p&gt;A Blog&amp;rsquo;s income directly depends on the number of visitors your site gets from search engines. In AdSense terms and conditions, it is clearly stated that a user should avoid all fake methods of generating traffic. Affiliate marketing doesn&amp;rsquo;t have strict terms and conditions. My blog&amp;rsquo;s traffic was down several times but I never gave up.&lt;/p&gt;&#xA;&lt;p&gt;When I started with blogging, for the first 6 to 7 months, there were just 500 to 600 visitors/month to my site. When it was affected by a penalty, the traffic dropped to 100 or 200 visitors. These stats were not enough to generate a decent income nor was I eligible for AdSense program. Now the traffic has increased more than 10 times, 50 percent of my online income is from Adsense and the rest comes from four affiliate programs. Before the year 2016 ends, I expect my blog traffic to increase over 10000 UV/day. Here are the techniques I used to improve traffic to my blog.&lt;/p&gt;</description>
+      <description>&lt;p&gt;A Blog&amp;rsquo;s income directly depends on the number of visitors your site gets from search engines. In AdSense terms and conditions, it is clearly stated that a user should avoid all fake methods of generating traffic. Affiliate marketing doesn&amp;rsquo;t have strict terms and conditions. My blog&amp;rsquo;s traffic was down several times but I never gave up.&lt;/p&gt;
+&lt;p&gt;When I started with blogging, for the first 6 to 7 months, there were just 500 to 600 visitors/month to my site. When it was affected by a penalty, the traffic dropped to 100 or 200 visitors. These stats were not enough to generate a decent income nor was I eligible for AdSense program. Now the traffic has increased more than 10 times, 50 percent of my online income is from Adsense and the rest comes from four affiliate programs. Before the year 2016 ends, I expect my blog traffic to increase over 10000 UV/day. Here are the techniques I used to improve traffic to my blog.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Best blogs to read daily : Top Tech, Design, IT blogs in world</title>
       <link>https://www.carnaghan.com/best-blogs-to-read-daily-top-tech-design-it-blogs-in-world/</link>
       <pubDate>Fri, 26 Dec 2014 00:00:00 +0000</pubDate>
       <guid>https://www.carnaghan.com/best-blogs-to-read-daily-top-tech-design-it-blogs-in-world/</guid>
-      <description>&lt;p&gt;Our today&amp;rsquo;s article - 10 most popular blogs on the internet (2015) has been published to inspire you. As a blogger, you need inspiration. Many times, you may not be satisfied with your online career and you may think to quit blogging.&lt;/p&gt;&#xA;&lt;p&gt;I won&amp;rsquo;t recommend you to do this as many months of your hard work will go in vain. Just go through the content published on the most popular blogs. Quality content has helped the best websites on the internet to rank very high in search engines. As they rank high, they get 1000&amp;rsquo;s of do-follow natural backlinks every day. The owners of these blogs are self-made millionaires and they&amp;rsquo;re an inspiration to all of us. If you&amp;rsquo;re a newbie blogger, your articles won&amp;rsquo;t rank as high as the articles found on the most popular blogs. But they&amp;rsquo;ll outrank low quality and thin websites.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Our today&amp;rsquo;s article - 10 most popular blogs on the internet (2015) has been published to inspire you. As a blogger, you need inspiration. Many times, you may not be satisfied with your online career and you may think to quit blogging.&lt;/p&gt;
+&lt;p&gt;I won&amp;rsquo;t recommend you to do this as many months of your hard work will go in vain. Just go through the content published on the most popular blogs. Quality content has helped the best websites on the internet to rank very high in search engines. As they rank high, they get 1000&amp;rsquo;s of do-follow natural backlinks every day. The owners of these blogs are self-made millionaires and they&amp;rsquo;re an inspiration to all of us. If you&amp;rsquo;re a newbie blogger, your articles won&amp;rsquo;t rank as high as the articles found on the most popular blogs. But they&amp;rsquo;ll outrank low quality and thin websites.&lt;/p&gt;</description>
     </item>
     <item>
       <title>How to start a blog: A Free Guide for beginners (2018)</title>
       <link>https://www.carnaghan.com/how-to-start-a-blog-a-free-guide-for-beginners-2018/</link>
       <pubDate>Mon, 22 Dec 2014 00:00:00 +0000</pubDate>
       <guid>https://www.carnaghan.com/how-to-start-a-blog-a-free-guide-for-beginners-2018/</guid>
-      <description>&lt;p&gt;If you want to start a blog, through the below points as we have shared a detailed guide for creating a new blog.&lt;/p&gt;&#xA;&lt;h2 id=&#34;step-by-step-guide-for-starting-a-blog&#34;&gt;Step-by-step guide for starting a blog&lt;/h2&gt;&#xA;&lt;h3 id=&#34;1-choose-a-niche&#34;&gt;1) Choose a Niche&lt;/h3&gt;&#xA;&lt;p&gt;Niche is nothing but a topic on which you&amp;rsquo;ll blog on. Spend few hours in writing 2 or 3 some niche ideas on a paper and think hard on your favorite topic. Some topics that you can shortlist for your new blog is technology, food, tourism, marketing, etc. No matter what blogging topic you select, make sure you have good knowledge of it.&lt;/p&gt;</description>
+      <description>&lt;p&gt;If you want to start a blog, through the below points as we have shared a detailed guide for creating a new blog.&lt;/p&gt;
+&lt;h2 id=&#34;step-by-step-guide-for-starting-a-blog&#34;&gt;Step-by-step guide for starting a blog&lt;/h2&gt;
+&lt;h3 id=&#34;1-choose-a-niche&#34;&gt;1) Choose a Niche&lt;/h3&gt;
+&lt;p&gt;Niche is nothing but a topic on which you&amp;rsquo;ll blog on. Spend few hours in writing 2 or 3 some niche ideas on a paper and think hard on your favorite topic. Some topics that you can shortlist for your new blog is technology, food, tourism, marketing, etc. No matter what blogging topic you select, make sure you have good knowledge of it.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Best Blogging Platform : Blogger vs WordPress Comparision</title>
       <link>https://www.carnaghan.com/best-blogging-platform-blogger-vs-wordpress-comparision/</link>
       <pubDate>Thu, 11 Dec 2014 00:00:00 +0000</pubDate>
       <guid>https://www.carnaghan.com/best-blogging-platform-blogger-vs-wordpress-comparision/</guid>
-      <description>&lt;p&gt;WordPress and Blogger are 2 of the most popular blogging platforms/content management systems of all time. They are free to use. These 2 platforms are so powerful that users can build/launch a new website within a couple of minutes.&lt;/p&gt;&#xA;&lt;p&gt;As a newbie, I used Blogger platform as I didn&amp;rsquo;t want to risk my money in an adventure that I&amp;rsquo;ve never been a part of before. After 5 - 6 months, I migrated my site to WordPress. Well, if you&amp;rsquo;re starting up with blogging and if you&amp;rsquo;re confused in choosing the best blogging platform for you then please go through the below paragraphs:&lt;/p&gt;</description>
+      <description>&lt;p&gt;WordPress and Blogger are 2 of the most popular blogging platforms/content management systems of all time. They are free to use. These 2 platforms are so powerful that users can build/launch a new website within a couple of minutes.&lt;/p&gt;
+&lt;p&gt;As a newbie, I used Blogger platform as I didn&amp;rsquo;t want to risk my money in an adventure that I&amp;rsquo;ve never been a part of before. After 5 - 6 months, I migrated my site to WordPress. Well, if you&amp;rsquo;re starting up with blogging and if you&amp;rsquo;re confused in choosing the best blogging platform for you then please go through the below paragraphs:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Tips on How to be a Successful Blogger</title>

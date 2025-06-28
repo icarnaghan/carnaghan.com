@@ -1,10 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Business on Ian Carnaghan</title>
     <link>https://www.carnaghan.com/categories/business/</link>
     <description>Recent content in Business on Ian Carnaghan</description>
-    <generator>Hugo</generator>
+    <image>
+      <title>Ian Carnaghan</title>
+      <url>https://www.carnaghan.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://www.carnaghan.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.147.9</generator>
     <language>en</language>
     <lastBuildDate>Tue, 02 Oct 2018 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.carnaghan.com/categories/business/index.xml" rel="self" type="application/rss+xml" />
@@ -13,7 +18,8 @@
       <link>https://www.carnaghan.com/is-your-organization-using-evidence-based-decision-making/</link>
       <pubDate>Tue, 02 Oct 2018 00:00:00 +0000</pubDate>
       <guid>https://www.carnaghan.com/is-your-organization-using-evidence-based-decision-making/</guid>
-      <description>&lt;p&gt;There are more ways to access data through a large amount of software tools than there has ever been in the history of analytics. We have access to a wealth of information that, if used properly, can help drive decisions and bring about success within organizations. Why then are so many top-level executive decisions driven by intuition and gut feel?&lt;/p&gt;&#xA;&lt;p&gt;There have been countless examples over the last decade of commercial failures that could have been avoided if a greater analytical approach had been adopted and used in evidence based thinking and decision making. Unfortunately adopting and integrating analytics into the operational and strategic decisions has it&amp;rsquo;s challenges. Two of the largest hurdles to successful integration of evidence-based decision making fall within the organizational culture and awareness or education.&lt;/p&gt;</description>
+      <description>&lt;p&gt;There are more ways to access data through a large amount of software tools than there has ever been in the history of analytics. We have access to a wealth of information that, if used properly, can help drive decisions and bring about success within organizations. Why then are so many top-level executive decisions driven by intuition and gut feel?&lt;/p&gt;
+&lt;p&gt;There have been countless examples over the last decade of commercial failures that could have been avoided if a greater analytical approach had been adopted and used in evidence based thinking and decision making. Unfortunately adopting and integrating analytics into the operational and strategic decisions has it&amp;rsquo;s challenges. Two of the largest hurdles to successful integration of evidence-based decision making fall within the organizational culture and awareness or education.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Organizational Culture Changes and Impacts on the Individual &amp; Decision Making</title>
@@ -41,7 +47,8 @@
       <link>https://www.carnaghan.com/wordpress-black-friday-deals-2016-unbelievable-discounts-for-you/</link>
       <pubDate>Tue, 22 Nov 2016 00:00:00 +0000</pubDate>
       <guid>https://www.carnaghan.com/wordpress-black-friday-deals-2016-unbelievable-discounts-for-you/</guid>
-      <description>&lt;p&gt;If you have been waiting for the WordPress Black Friday sale 2016, then your wait is over. The WP BF sale has begun and top WordPress theme and plugin developers are throwing massive discounts on their top products. Hence, if you buy a premium product now, you&amp;rsquo;ll save huge money by the end of next year.&lt;/p&gt;&#xA;&lt;p&gt;In case you&amp;rsquo;re not able to find the best deals for WordPress, here is the list of top offers you can avail this November.&lt;/p&gt;</description>
+      <description>&lt;p&gt;If you have been waiting for the WordPress Black Friday sale 2016, then your wait is over. The WP BF sale has begun and top WordPress theme and plugin developers are throwing massive discounts on their top products. Hence, if you buy a premium product now, you&amp;rsquo;ll save huge money by the end of next year.&lt;/p&gt;
+&lt;p&gt;In case you&amp;rsquo;re not able to find the best deals for WordPress, here is the list of top offers you can avail this November.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Freedom of Information Act (FOIA) Quick Overview</title>
@@ -195,7 +202,9 @@
       <link>https://www.carnaghan.com/why-do-we-need-financial-regulation/</link>
       <pubDate>Wed, 15 Dec 2004 00:00:00 +0000</pubDate>
       <guid>https://www.carnaghan.com/why-do-we-need-financial-regulation/</guid>
-      <description>&lt;p&gt;[1]  “The purpose of financial regulation is to improve upon the performance of financial markets relative to how they would perform driven solely by the forces of the private marketplace.” Banking is one of the most highly regulated industries within the United States.  We can understand the impact of regulation by taking a look at the history and evolution of the banking system through to the present day.&lt;/p&gt;&#xA;&lt;h3 id=&#34;the-early-banking-system&#34;&gt;&lt;strong&gt;The Early Banking System&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;Since the early days of banking, the industry has faced many changes in regulation due to different needs arising throughout the years.  In the early days, government control was not favored among most of the original settlers who had come from countries where too much federal control was exerted.  Therefore the early banking system comprised of a multitude of different small banks printing their own currency, which would often fail and leave customers with lost funds.&lt;/p&gt;</description>
+      <description>&lt;p&gt;[1]  “The purpose of financial regulation is to improve upon the performance of financial markets relative to how they would perform driven solely by the forces of the private marketplace.” Banking is one of the most highly regulated industries within the United States.  We can understand the impact of regulation by taking a look at the history and evolution of the banking system through to the present day.&lt;/p&gt;
+&lt;h3 id=&#34;the-early-banking-system&#34;&gt;&lt;strong&gt;The Early Banking System&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Since the early days of banking, the industry has faced many changes in regulation due to different needs arising throughout the years.  In the early days, government control was not favored among most of the original settlers who had come from countries where too much federal control was exerted.  Therefore the early banking system comprised of a multitude of different small banks printing their own currency, which would often fail and leave customers with lost funds.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Electronic Financial Transactions</title>
@@ -223,14 +232,20 @@
       <link>https://www.carnaghan.com/development-of-the-internet-service-providers/</link>
       <pubDate>Mon, 15 May 2000 00:00:00 +0000</pubDate>
       <guid>https://www.carnaghan.com/development-of-the-internet-service-providers/</guid>
-      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;The Internet was the result of some visionary people in the early 1960s who saw great potential value in allowing computers to share information on research and development in scientific and military fields.&lt;/p&gt;&#xA;&lt;p&gt;Howe, W (1998) A Brief History of the Internet&lt;br&gt;&#xA;&lt;a href=&#34;http://www0.delphi.com/navnet/faq/history.html&#34;&gt;http://www0.delphi.com/navnet/faq/history.html&lt;/a&gt; (January 28th, 2000)&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;h3 id=&#34;history-of-the-internet&#34;&gt;History of the Internet&lt;/h3&gt;&#xA;&lt;p&gt;The Internet has had a relatively brief but also explosive history over the last few decades. It originated from an experiment, started by the U.S. Department of Defence during the 1960s. The Department of Defence wanted to create a computer network that would continue to function in the event of a disaster, such as a nuclear war.&lt;/p&gt;</description>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;The Internet was the result of some visionary people in the early 1960s who saw great potential value in allowing computers to share information on research and development in scientific and military fields.&lt;/p&gt;
+&lt;p&gt;Howe, W (1998) A Brief History of the Internet&lt;br&gt;
+&lt;a href=&#34;http://www0.delphi.com/navnet/faq/history.html&#34;&gt;http://www0.delphi.com/navnet/faq/history.html&lt;/a&gt; (January 28th, 2000)&lt;/p&gt;&lt;/blockquote&gt;
+&lt;h3 id=&#34;history-of-the-internet&#34;&gt;History of the Internet&lt;/h3&gt;
+&lt;p&gt;The Internet has had a relatively brief but also explosive history over the last few decades. It originated from an experiment, started by the U.S. Department of Defence during the 1960s. The Department of Defence wanted to create a computer network that would continue to function in the event of a disaster, such as a nuclear war.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Evolution of ISPs Introduction</title>
       <link>https://www.carnaghan.com/evolution-of-isps-introduction/</link>
       <pubDate>Mon, 15 May 2000 00:00:00 +0000</pubDate>
       <guid>https://www.carnaghan.com/evolution-of-isps-introduction/</guid>
-      <description>&lt;p&gt;The Internet has grown beyond a simple tool for a small number of education and government agencies over the last few years. The commercialization of the Internet has opened a brand new market for small, medium and large commercial bodies to provide access to this huge network of opportunity for business and home users alike.&lt;/p&gt;&#xA;&lt;p&gt;These companies are the sole providers of access to the ‘Information Super-Highway’ and it is therefore important to analyse how they have managed to survive in the past as well as their current and future success. The basis of this dissertation has concentrated mainly on the small to medium sized ISP providing services to the local business community and tends to concentrate on the issues involved here. It is important to look into periods of the past few years and how ISPs have developed into the providers that are common on the market place today. Through analysing the changes that ISPs have faced in the past, this will give a better gauge as to where the ISP needs to look to for future opportunities and more importantly, future survival.&lt;/p&gt;</description>
+      <description>&lt;p&gt;The Internet has grown beyond a simple tool for a small number of education and government agencies over the last few years. The commercialization of the Internet has opened a brand new market for small, medium and large commercial bodies to provide access to this huge network of opportunity for business and home users alike.&lt;/p&gt;
+&lt;p&gt;These companies are the sole providers of access to the ‘Information Super-Highway’ and it is therefore important to analyse how they have managed to survive in the past as well as their current and future success. The basis of this dissertation has concentrated mainly on the small to medium sized ISP providing services to the local business community and tends to concentrate on the issues involved here. It is important to look into periods of the past few years and how ISPs have developed into the providers that are common on the market place today. Through analysing the changes that ISPs have faced in the past, this will give a better gauge as to where the ISP needs to look to for future opportunities and more importantly, future survival.&lt;/p&gt;</description>
     </item>
     <item>
       <title>ISPs Currently in Today’s Changing Market</title>
@@ -251,49 +266,59 @@
       <link>https://www.carnaghan.com/security-issues-to-be-addressed-by-isps/</link>
       <pubDate>Mon, 15 May 2000 00:00:00 +0000</pubDate>
       <guid>https://www.carnaghan.com/security-issues-to-be-addressed-by-isps/</guid>
-      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;The Internet has become a vast marketplace for global goods and services. For e-commerce to prosper, you have to feel safe about transmitting credit card and other financial information over the Internet. Because information traveling over the network actually passes through many computers along the way, the opportunity exists for someone to steal confidential information. Hackers also break into computers to steal data. No one really knows how often this actually happens.&lt;/p&gt;</description>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;The Internet has become a vast marketplace for global goods and services. For e-commerce to prosper, you have to feel safe about transmitting credit card and other financial information over the Internet. Because information traveling over the network actually passes through many computers along the way, the opportunity exists for someone to steal confidential information. Hackers also break into computers to steal data. No one really knows how often this actually happens.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Evolution of Internet Service Providers</title>
       <link>https://www.carnaghan.com/the-evolution-of-internet-service-providers/</link>
       <pubDate>Mon, 15 May 2000 00:00:00 +0000</pubDate>
       <guid>https://www.carnaghan.com/the-evolution-of-internet-service-providers/</guid>
-      <description>&lt;p&gt;The Internet has grown beyond a simple tool for a small number of education and government agencies over the last few years. The commercialization of the Internet has opened a brand new market for small, medium and large commercial bodies to provide access to this huge network of opportunity for business and home users alike.&lt;/p&gt;&#xA;&lt;p&gt;These companies are the sole providers of access to the ‘Information Super-Highway’ and it is therefore important to analyse how they have managed to survive in the past as well as their current and future success. The basis of this dissertation has concentrated mainly on the small to medium sized ISP providing services to the local business community and tends to concentrate on the issues involved here. It is important to look into periods of the past few years and how ISPs have developed into the providers that are common on the market place today. Through analysing the changes that ISPs have faced in the past, this will give a better gauge as to where the ISP needs to look to for future opportunities and more importantly, future survival.&lt;/p&gt;</description>
+      <description>&lt;p&gt;The Internet has grown beyond a simple tool for a small number of education and government agencies over the last few years. The commercialization of the Internet has opened a brand new market for small, medium and large commercial bodies to provide access to this huge network of opportunity for business and home users alike.&lt;/p&gt;
+&lt;p&gt;These companies are the sole providers of access to the ‘Information Super-Highway’ and it is therefore important to analyse how they have managed to survive in the past as well as their current and future success. The basis of this dissertation has concentrated mainly on the small to medium sized ISP providing services to the local business community and tends to concentrate on the issues involved here. It is important to look into periods of the past few years and how ISPs have developed into the providers that are common on the market place today. Through analysing the changes that ISPs have faced in the past, this will give a better gauge as to where the ISP needs to look to for future opportunities and more importantly, future survival.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Future of ISPs</title>
       <link>https://www.carnaghan.com/the-future-of-isps/</link>
       <pubDate>Mon, 15 May 2000 00:00:00 +0000</pubDate>
       <guid>https://www.carnaghan.com/the-future-of-isps/</guid>
-      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Internet Service Providers (ISP) frequently have to face the question as to how they can protect their existing business and, at the same time, remain profitable in the future. For, on the one hand, the strong concentration process drastically shrinks the margins of pure access providing. New competitors, for example the major telecommunications companies, are flooding the market with ever cheaper offers. Prices continue to fall. And customers, who are becoming more and more &amp;ldquo;literate&amp;rdquo;, are now designing their own HTML pages. To quote a study issued by the European Union (EG DGXIII.A3) ISPs will not survive in the long term if they do not provide add-on services such as consulting or electronic publishing.&lt;/p&gt;</description>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;Internet Service Providers (ISP) frequently have to face the question as to how they can protect their existing business and, at the same time, remain profitable in the future. For, on the one hand, the strong concentration process drastically shrinks the margins of pure access providing. New competitors, for example the major telecommunications companies, are flooding the market with ever cheaper offers. Prices continue to fall. And customers, who are becoming more and more &amp;ldquo;literate&amp;rdquo;, are now designing their own HTML pages. To quote a study issued by the European Union (EG DGXIII.A3) ISPs will not survive in the long term if they do not provide add-on services such as consulting or electronic publishing.&lt;/p&gt;</description>
     </item>
     <item>
       <title>TSI (Ireland) Ltd.</title>
       <link>https://www.carnaghan.com/tsi-ireland-ltd./</link>
       <pubDate>Mon, 28 Feb 2000 00:00:00 +0000</pubDate>
       <guid>https://www.carnaghan.com/tsi-ireland-ltd./</guid>
-      <description>&lt;h2 id=&#34;background-information&#34;&gt;Background Information&lt;/h2&gt;&#xA;&lt;p&gt;TSI Ireland was formed over a year ago in February 1999 as a Private Limited Company.  Financial backing came from the two partners within the company, Mr. Martin Hamill and Mr. Eric Carson (Business Manager for Orange, Northern Ireland).  Staff comprised of 6 full time workers split into the following areas: two Administration personnel, a telecoms engineer, sales director, account manager and the managing director.  The company also undertakes contract work from additional 6 workers who are primarily involved with sales.&lt;/p&gt;</description>
+      <description>&lt;h2 id=&#34;background-information&#34;&gt;Background Information&lt;/h2&gt;
+&lt;p&gt;TSI Ireland was formed over a year ago in February 1999 as a Private Limited Company.  Financial backing came from the two partners within the company, Mr. Martin Hamill and Mr. Eric Carson (Business Manager for Orange, Northern Ireland).  Staff comprised of 6 full time workers split into the following areas: two Administration personnel, a telecoms engineer, sales director, account manager and the managing director.  The company also undertakes contract work from additional 6 workers who are primarily involved with sales.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Organizational Behavior Leadership and Teamwork</title>
       <link>https://www.carnaghan.com/organizational-behavior-leadership-and-teamwork/</link>
       <pubDate>Wed, 10 Mar 1999 00:00:00 +0000</pubDate>
       <guid>https://www.carnaghan.com/organizational-behavior-leadership-and-teamwork/</guid>
-      <description>&lt;p&gt;During the summer of 1997 I worked for a period of four months on a contract for a company called the Environment and Heritage Service (EHS) Northern Ireland.  During this time I worked primarily within the Computing Department of the organization and our team was involved with all the Information Technology issues across the various offices.&lt;/p&gt;&#xA;&lt;p&gt;This paper will look at the two main areas of leadership and team working as I learned a great deal while working there.  The main Information Technology department comprised of a Systems Manager with three main Network Managers working for him and staff working under the database managers for various computing related jobs. To give an idea of the responsibilities of the staff within the computing department I will list briefly what each position has entailed.&lt;/p&gt;</description>
+      <description>&lt;p&gt;During the summer of 1997 I worked for a period of four months on a contract for a company called the Environment and Heritage Service (EHS) Northern Ireland.  During this time I worked primarily within the Computing Department of the organization and our team was involved with all the Information Technology issues across the various offices.&lt;/p&gt;
+&lt;p&gt;This paper will look at the two main areas of leadership and team working as I learned a great deal while working there.  The main Information Technology department comprised of a Systems Manager with three main Network Managers working for him and staff working under the database managers for various computing related jobs. To give an idea of the responsibilities of the staff within the computing department I will list briefly what each position has entailed.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Advantages of having one large government over individual governments</title>
       <link>https://www.carnaghan.com/advantages-of-having-one-large-government-over-individual-governments/</link>
       <pubDate>Tue, 28 Oct 1997 00:00:00 +0000</pubDate>
       <guid>https://www.carnaghan.com/advantages-of-having-one-large-government-over-individual-governments/</guid>
-      <description>&lt;p&gt;The information gathered for this essay on social space and the European Social Chapter was obtained from various sources.  These included Internet sites listed in the Bibliography and numerous books and material from the University of Ulster Library.&lt;/p&gt;&#xA;&lt;p&gt;It will attempt to show how the benefits for and the objectives against the European Social Chapter affect social space within various countries in the European Union.&lt;/p&gt;&#xA;&lt;h2 id=&#34;european-social-space&#34;&gt;EUROPEAN SOCIAL SPACE&lt;/h2&gt;&#xA;&lt;p&gt;The idea behind social space within the European Union has highlighted certain areas of concern within countries of the European Union.  Employment, industrial health, social costs of industry, labour mobility and social spending within these countries are all elements dealt within European Social Space.  Social space also involves education, training, housing and health.  Over recent years the issues of social welfare have become extremely important as the EU has grown.  One of the main reasons for this is that public expectations have increased rapidly that their governments will play a major role in improving overall quality of life, bringing social affairs firmly into the public domain.  It is only over recent years that the idea of Social Space within the European Union has become a vital factor to the expansion of the EC.&lt;/p&gt;</description>
+      <description>&lt;p&gt;The information gathered for this essay on social space and the European Social Chapter was obtained from various sources.  These included Internet sites listed in the Bibliography and numerous books and material from the University of Ulster Library.&lt;/p&gt;
+&lt;p&gt;It will attempt to show how the benefits for and the objectives against the European Social Chapter affect social space within various countries in the European Union.&lt;/p&gt;
+&lt;h2 id=&#34;european-social-space&#34;&gt;EUROPEAN SOCIAL SPACE&lt;/h2&gt;
+&lt;p&gt;The idea behind social space within the European Union has highlighted certain areas of concern within countries of the European Union.  Employment, industrial health, social costs of industry, labour mobility and social spending within these countries are all elements dealt within European Social Space.  Social space also involves education, training, housing and health.  Over recent years the issues of social welfare have become extremely important as the EU has grown.  One of the main reasons for this is that public expectations have increased rapidly that their governments will play a major role in improving overall quality of life, bringing social affairs firmly into the public domain.  It is only over recent years that the idea of Social Space within the European Union has become a vital factor to the expansion of the EC.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Manpower Planning Versus Human Resource Planning</title>
       <link>https://www.carnaghan.com/manpower-planning-versus-human-resource-planning/</link>
       <pubDate>Tue, 28 Oct 1997 00:00:00 +0000</pubDate>
       <guid>https://www.carnaghan.com/manpower-planning-versus-human-resource-planning/</guid>
-      <description>&lt;p&gt;The differences between manpower planning and human resource planning will be outlined within this essay along with how human resource planning has built on and developed traditional manpower planning. The main sources of information to compile this assignment have come mostly from Coleraine and Jordanstown University of Ulster Libraries and the books used and referred to have been listed in the references and bibliography section of this essay.&lt;/p&gt;&#xA;&lt;h2 id=&#34;manpower-planning&#34;&gt;MANPOWER PLANNING&lt;/h2&gt;&#xA;&lt;p&gt;The main reason the process of manpower planning came about was to help the management of employees within a business organization.  Manpower planning looks at the organizations current and future need of labour within the business.  The current and future employment needs are a great concern and the examination of supply within the local area for possible new employees if required.&lt;/p&gt;</description>
+      <description>&lt;p&gt;The differences between manpower planning and human resource planning will be outlined within this essay along with how human resource planning has built on and developed traditional manpower planning. The main sources of information to compile this assignment have come mostly from Coleraine and Jordanstown University of Ulster Libraries and the books used and referred to have been listed in the references and bibliography section of this essay.&lt;/p&gt;
+&lt;h2 id=&#34;manpower-planning&#34;&gt;MANPOWER PLANNING&lt;/h2&gt;
+&lt;p&gt;The main reason the process of manpower planning came about was to help the management of employees within a business organization.  Manpower planning looks at the organizations current and future need of labour within the business.  The current and future employment needs are a great concern and the examination of supply within the local area for possible new employees if required.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Tesco - Marketing Strategy in Northern Ireland</title>

@@ -1,10 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Csec-630 on Ian Carnaghan</title>
     <link>https://www.carnaghan.com/tags/csec-630/</link>
     <description>Recent content in Csec-630 on Ian Carnaghan</description>
-    <generator>Hugo</generator>
+    <image>
+      <title>Ian Carnaghan</title>
+      <url>https://www.carnaghan.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://www.carnaghan.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.147.9</generator>
     <language>en</language>
     <lastBuildDate>Sun, 01 Nov 2015 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.carnaghan.com/tags/csec-630/index.xml" rel="self" type="application/rss+xml" />
@@ -20,7 +25,9 @@
       <link>https://www.carnaghan.com/sql-injection-explained/</link>
       <pubDate>Thu, 29 Oct 2015 00:00:00 +0000</pubDate>
       <guid>https://www.carnaghan.com/sql-injection-explained/</guid>
-      <description>&lt;p&gt;SQL injection has been a method of attacking databases through multiple tiers of application infrastructure for many years, MacVittie (2008).  SQL or Sequential Query Language is a database language used to interact with large quantities of data, typically stored in tables inside a Relational Database Management System (DBMS).  Each command using the SQL language typically generates a result set of data.  An example of this follows:&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;select * from accounts&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;The (*) is effectively used to return (all) columns of data in the ‘accounts’ table.  A similar, and more dangerous statement could be issued using the drop command:&lt;/p&gt;</description>
+      <description>&lt;p&gt;SQL injection has been a method of attacking databases through multiple tiers of application infrastructure for many years, MacVittie (2008).  SQL or Sequential Query Language is a database language used to interact with large quantities of data, typically stored in tables inside a Relational Database Management System (DBMS).  Each command using the SQL language typically generates a result set of data.  An example of this follows:&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;select * from accounts
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;The (*) is effectively used to return (all) columns of data in the ‘accounts’ table.  A similar, and more dangerous statement could be issued using the drop command:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Operating Systems Security: Protection Measures Analysis</title>
@@ -41,7 +48,8 @@
       <link>https://www.carnaghan.com/post-authentication-methods/</link>
       <pubDate>Thu, 08 Oct 2015 00:00:00 +0000</pubDate>
       <guid>https://www.carnaghan.com/post-authentication-methods/</guid>
-      <description>&lt;p&gt;A lot of time can be spent in an organization firming up authentication and access control systems to ensure greater levels of security to their network. All of this however is only one step to insuring a users credentials are not compromised. Considerations need to be made for post authentication. There are several things organizations can do to mitigate risk associated with post login activities.&lt;/p&gt;&#xA;&lt;p&gt;First and foremost, training should be one of the top priorities of the organization. There must be a comprehensive training program for employees within different divisions of the organization (adjusted accordingly for the various levels of access and privileges).  In terms of proper use of access control technologies (such as tokens, etc.), policies, and best practices, “Organization members (need to) know what questions to ask and how to find the services they need” (Johnson, E. M., &amp;amp; Goetz, E, 2007). They need to be  aware that it is not acceptable, for example, to leave workstations unattended. Policies should be enforced ensuring that systems are locked down effectively when being left unattended.&lt;/p&gt;</description>
+      <description>&lt;p&gt;A lot of time can be spent in an organization firming up authentication and access control systems to ensure greater levels of security to their network. All of this however is only one step to insuring a users credentials are not compromised. Considerations need to be made for post authentication. There are several things organizations can do to mitigate risk associated with post login activities.&lt;/p&gt;
+&lt;p&gt;First and foremost, training should be one of the top priorities of the organization. There must be a comprehensive training program for employees within different divisions of the organization (adjusted accordingly for the various levels of access and privileges).  In terms of proper use of access control technologies (such as tokens, etc.), policies, and best practices, “Organization members (need to) know what questions to ask and how to find the services they need” (Johnson, E. M., &amp;amp; Goetz, E, 2007). They need to be  aware that it is not acceptable, for example, to leave workstations unattended. Policies should be enforced ensuring that systems are locked down effectively when being left unattended.&lt;/p&gt;</description>
     </item>
     <item>
       <title>More on Limiting Damage to Information Assets</title>

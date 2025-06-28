@@ -1,10 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Ux-Design on Ian Carnaghan</title>
     <link>https://www.carnaghan.com/categories/ux-design/</link>
     <description>Recent content in Ux-Design on Ian Carnaghan</description>
-    <generator>Hugo</generator>
+    <image>
+      <title>Ian Carnaghan</title>
+      <url>https://www.carnaghan.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://www.carnaghan.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.147.9</generator>
     <language>en</language>
     <lastBuildDate>Fri, 12 Jul 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.carnaghan.com/categories/ux-design/index.xml" rel="self" type="application/rss+xml" />
@@ -20,7 +25,8 @@
       <link>https://www.carnaghan.com/how-to-perform-heuristics-evaluation-on-a-website/</link>
       <pubDate>Wed, 04 Sep 2019 00:00:00 +0000</pubDate>
       <guid>https://www.carnaghan.com/how-to-perform-heuristics-evaluation-on-a-website/</guid>
-      <description>&lt;p&gt;Every User Experience Researcher in the world gets the request of performing a &lt;strong&gt;Heuristic Evaluation&lt;/strong&gt; at least once in their lifetime. But it is not always clear if the requester knows precisely about this process of evaluation. What happens is, they hear a word in trend, and they request it.&lt;/p&gt;&#xA;&lt;p&gt;But before you dive right into the heuristics evaluation of the website, you need to be aware of what it is and how you can conduct it with precision. Take some time and learn about all the ins and outs of the technique.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Every User Experience Researcher in the world gets the request of performing a &lt;strong&gt;Heuristic Evaluation&lt;/strong&gt; at least once in their lifetime. But it is not always clear if the requester knows precisely about this process of evaluation. What happens is, they hear a word in trend, and they request it.&lt;/p&gt;
+&lt;p&gt;But before you dive right into the heuristics evaluation of the website, you need to be aware of what it is and how you can conduct it with precision. Take some time and learn about all the ins and outs of the technique.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Sketching out your Perfect Website</title>
@@ -34,7 +40,9 @@
       <link>https://www.carnaghan.com/what-is-a-doctor-of-science-degree/</link>
       <pubDate>Sun, 12 Jun 2016 00:00:00 +0000</pubDate>
       <guid>https://www.carnaghan.com/what-is-a-doctor-of-science-degree/</guid>
-      <description>&lt;p&gt;In 2014, I finally graduated after several years of intensive work from the University of Baltimore with a Doctor of Science degree in Information and Interaction Design. At the time I graduated people started asking me about my credential and whether or not it was the same as a Doctor of Philosophy (Ph.D.).&lt;/p&gt;&#xA;&lt;h2 id=&#34;what-is-a-doctor-of-science&#34;&gt;What is a Doctor of Science?&lt;/h2&gt;&#xA;&lt;p&gt;There are many articles online regarding this very topic. In some countries a Doctor of Science (often abbreviated as either Sc.D. or D.Sc.), is considered a different type of credential than what is considered in the United States. In the U.K. for example, an Sc.D. is considered a higher degree than the traditional Ph.D. This type of qualification there is only obtained by senior scholars in their field of study. In some cases it is bestowed as an honorary title.&lt;/p&gt;</description>
+      <description>&lt;p&gt;In 2014, I finally graduated after several years of intensive work from the University of Baltimore with a Doctor of Science degree in Information and Interaction Design. At the time I graduated people started asking me about my credential and whether or not it was the same as a Doctor of Philosophy (Ph.D.).&lt;/p&gt;
+&lt;h2 id=&#34;what-is-a-doctor-of-science&#34;&gt;What is a Doctor of Science?&lt;/h2&gt;
+&lt;p&gt;There are many articles online regarding this very topic. In some countries a Doctor of Science (often abbreviated as either Sc.D. or D.Sc.), is considered a different type of credential than what is considered in the United States. In the U.K. for example, an Sc.D. is considered a higher degree than the traditional Ph.D. This type of qualification there is only obtained by senior scholars in their field of study. In some cases it is bestowed as an honorary title.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Heather Remote Usability Session 10</title>
@@ -230,7 +238,9 @@
       <link>https://www.carnaghan.com/field-survey-structure/</link>
       <pubDate>Sat, 06 Jul 2013 00:00:00 +0000</pubDate>
       <guid>https://www.carnaghan.com/field-survey-structure/</guid>
-      <description>&lt;h4 id=&#34;exploratory-requirements-survey&#34;&gt;Exploratory Requirements Survey&lt;/h4&gt;&#xA;&lt;h5 id=&#34;introduction&#34;&gt;Introduction&lt;/h5&gt;&#xA;&lt;p&gt;Thank you for taking the time to complete this short survey.  Your answers will contribute to building an effective Curriculum Mapping solution for Monarch Academy. &lt;/p&gt;</description>
+      <description>&lt;h4 id=&#34;exploratory-requirements-survey&#34;&gt;Exploratory Requirements Survey&lt;/h4&gt;
+&lt;h5 id=&#34;introduction&#34;&gt;Introduction&lt;/h5&gt;
+&lt;p&gt;Thank you for taking the time to complete this short survey.  Your answers will contribute to building an effective Curriculum Mapping solution for Monarch Academy. &lt;/p&gt;</description>
     </item>
     <item>
       <title>Philosophical Assumptions for Qualitative Research</title>
@@ -293,7 +303,8 @@
       <link>https://www.carnaghan.com/evaluation-of-a-major-news-website-from-a-human-cognitive-perspective/</link>
       <pubDate>Tue, 20 Sep 2011 00:00:00 +0000</pubDate>
       <guid>https://www.carnaghan.com/evaluation-of-a-major-news-website-from-a-human-cognitive-perspective/</guid>
-      <description>&lt;p&gt;Over the last decade, a shift has occurred in the way many people access, read and watch current events and news.  From the traditional newspapers and scheduled television news programs, we have moved to a more dynamic interactive medium, which dispenses information in a real-time format.  News websites are a fairly young media; however they have evolved exponentially since the late 1990s to the current time.&lt;/p&gt;&#xA;&lt;p&gt;This article examines a popular news organization’s web presence and evaluates this resource in terms of human centered design and cognition.  It explores the website’s effectiveness of compiling and distributing news information in a way that is easy for humans to comprehend and process.  Much of the focus has been on the main homepage of the website; however other site pages have been taken into consideration adding context to some of the discussion.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Over the last decade, a shift has occurred in the way many people access, read and watch current events and news.  From the traditional newspapers and scheduled television news programs, we have moved to a more dynamic interactive medium, which dispenses information in a real-time format.  News websites are a fairly young media; however they have evolved exponentially since the late 1990s to the current time.&lt;/p&gt;
+&lt;p&gt;This article examines a popular news organization’s web presence and evaluates this resource in terms of human centered design and cognition.  It explores the website’s effectiveness of compiling and distributing news information in a way that is easy for humans to comprehend and process.  Much of the focus has been on the main homepage of the website; however other site pages have been taken into consideration adding context to some of the discussion.&lt;/p&gt;</description>
     </item>
     <item>
       <title>New Inside The Webb Layout with Genesis</title>
@@ -349,7 +360,8 @@
       <link>https://www.carnaghan.com/digital-point-forums-re-design-for-the-new-year/</link>
       <pubDate>Sun, 28 Feb 2010 00:00:00 +0000</pubDate>
       <guid>https://www.carnaghan.com/digital-point-forums-re-design-for-the-new-year/</guid>
-      <description>&lt;p&gt;Of all the internet marketing and blogging forums out there, Digital Point was the first community I ever joined. I&amp;rsquo;ve been there for years, learned so much from the members and even contributed to helping others along their path. There are many other choices, but DP will always hold a special place in my heart.&lt;/p&gt;&#xA;&lt;p&gt;After years of running the same design, DP has finally upgraded to a fresh web 2.0 look and feel to the entire site! Now running what is clearly the latest version of vBulletin 4.0 Forum Software, the latest design really kicks new life into such an expansive and helpful community.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Of all the internet marketing and blogging forums out there, Digital Point was the first community I ever joined. I&amp;rsquo;ve been there for years, learned so much from the members and even contributed to helping others along their path. There are many other choices, but DP will always hold a special place in my heart.&lt;/p&gt;
+&lt;p&gt;After years of running the same design, DP has finally upgraded to a fresh web 2.0 look and feel to the entire site! Now running what is clearly the latest version of vBulletin 4.0 Forum Software, the latest design really kicks new life into such an expansive and helpful community.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Interview with Professional XHTML/CSS Slicing Company Slicejack</title>
@@ -440,7 +452,9 @@
       <link>https://www.carnaghan.com/mobile-device-applications-from-a-development-perspective/</link>
       <pubDate>Thu, 22 Oct 2009 00:00:00 +0000</pubDate>
       <guid>https://www.carnaghan.com/mobile-device-applications-from-a-development-perspective/</guid>
-      <description>&lt;h3 id=&#34;limitations-and-opportunities-explored&#34;&gt;Limitations and opportunities explored&lt;/h3&gt;&#xA;&lt;p&gt;Mobile devices have many positive aspects including opening up networking channels and increasing the accessibility of information, but as with any new technology, potential pitfalls must be researched, remedied and cautiously provided for.  This literature review discusses several potential pitfalls of mobile technologies as well as potential opportunities faced by developers of software as well as mobile device manufacturers.&lt;/p&gt;&#xA;&lt;p&gt;More specifically, several themes are highlighted through existing literature on areas concerned with the development of mobile applications.  These themes include context awareness, mobile security, usability and accessibility.  By focusing on these themes and researching the literature available, the developer will be better equipped to face the challenges and opportunities ahead in order to create practical and usable applications.&lt;/p&gt;</description>
+      <description>&lt;h3 id=&#34;limitations-and-opportunities-explored&#34;&gt;Limitations and opportunities explored&lt;/h3&gt;
+&lt;p&gt;Mobile devices have many positive aspects including opening up networking channels and increasing the accessibility of information, but as with any new technology, potential pitfalls must be researched, remedied and cautiously provided for.  This literature review discusses several potential pitfalls of mobile technologies as well as potential opportunities faced by developers of software as well as mobile device manufacturers.&lt;/p&gt;
+&lt;p&gt;More specifically, several themes are highlighted through existing literature on areas concerned with the development of mobile applications.  These themes include context awareness, mobile security, usability and accessibility.  By focusing on these themes and researching the literature available, the developer will be better equipped to face the challenges and opportunities ahead in order to create practical and usable applications.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Interview with PSDFan&#39;s Designer and Blogger Tom Ross</title>
@@ -517,21 +531,27 @@
       <link>https://www.carnaghan.com/organizational-behavior-leadership-and-teamwork/</link>
       <pubDate>Wed, 10 Mar 1999 00:00:00 +0000</pubDate>
       <guid>https://www.carnaghan.com/organizational-behavior-leadership-and-teamwork/</guid>
-      <description>&lt;p&gt;During the summer of 1997 I worked for a period of four months on a contract for a company called the Environment and Heritage Service (EHS) Northern Ireland.  During this time I worked primarily within the Computing Department of the organization and our team was involved with all the Information Technology issues across the various offices.&lt;/p&gt;&#xA;&lt;p&gt;This paper will look at the two main areas of leadership and team working as I learned a great deal while working there.  The main Information Technology department comprised of a Systems Manager with three main Network Managers working for him and staff working under the database managers for various computing related jobs. To give an idea of the responsibilities of the staff within the computing department I will list briefly what each position has entailed.&lt;/p&gt;</description>
+      <description>&lt;p&gt;During the summer of 1997 I worked for a period of four months on a contract for a company called the Environment and Heritage Service (EHS) Northern Ireland.  During this time I worked primarily within the Computing Department of the organization and our team was involved with all the Information Technology issues across the various offices.&lt;/p&gt;
+&lt;p&gt;This paper will look at the two main areas of leadership and team working as I learned a great deal while working there.  The main Information Technology department comprised of a Systems Manager with three main Network Managers working for him and staff working under the database managers for various computing related jobs. To give an idea of the responsibilities of the staff within the computing department I will list briefly what each position has entailed.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Advantages of having one large government over individual governments</title>
       <link>https://www.carnaghan.com/advantages-of-having-one-large-government-over-individual-governments/</link>
       <pubDate>Tue, 28 Oct 1997 00:00:00 +0000</pubDate>
       <guid>https://www.carnaghan.com/advantages-of-having-one-large-government-over-individual-governments/</guid>
-      <description>&lt;p&gt;The information gathered for this essay on social space and the European Social Chapter was obtained from various sources.  These included Internet sites listed in the Bibliography and numerous books and material from the University of Ulster Library.&lt;/p&gt;&#xA;&lt;p&gt;It will attempt to show how the benefits for and the objectives against the European Social Chapter affect social space within various countries in the European Union.&lt;/p&gt;&#xA;&lt;h2 id=&#34;european-social-space&#34;&gt;EUROPEAN SOCIAL SPACE&lt;/h2&gt;&#xA;&lt;p&gt;The idea behind social space within the European Union has highlighted certain areas of concern within countries of the European Union.  Employment, industrial health, social costs of industry, labour mobility and social spending within these countries are all elements dealt within European Social Space.  Social space also involves education, training, housing and health.  Over recent years the issues of social welfare have become extremely important as the EU has grown.  One of the main reasons for this is that public expectations have increased rapidly that their governments will play a major role in improving overall quality of life, bringing social affairs firmly into the public domain.  It is only over recent years that the idea of Social Space within the European Union has become a vital factor to the expansion of the EC.&lt;/p&gt;</description>
+      <description>&lt;p&gt;The information gathered for this essay on social space and the European Social Chapter was obtained from various sources.  These included Internet sites listed in the Bibliography and numerous books and material from the University of Ulster Library.&lt;/p&gt;
+&lt;p&gt;It will attempt to show how the benefits for and the objectives against the European Social Chapter affect social space within various countries in the European Union.&lt;/p&gt;
+&lt;h2 id=&#34;european-social-space&#34;&gt;EUROPEAN SOCIAL SPACE&lt;/h2&gt;
+&lt;p&gt;The idea behind social space within the European Union has highlighted certain areas of concern within countries of the European Union.  Employment, industrial health, social costs of industry, labour mobility and social spending within these countries are all elements dealt within European Social Space.  Social space also involves education, training, housing and health.  Over recent years the issues of social welfare have become extremely important as the EU has grown.  One of the main reasons for this is that public expectations have increased rapidly that their governments will play a major role in improving overall quality of life, bringing social affairs firmly into the public domain.  It is only over recent years that the idea of Social Space within the European Union has become a vital factor to the expansion of the EC.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Manpower Planning Versus Human Resource Planning</title>
       <link>https://www.carnaghan.com/manpower-planning-versus-human-resource-planning/</link>
       <pubDate>Tue, 28 Oct 1997 00:00:00 +0000</pubDate>
       <guid>https://www.carnaghan.com/manpower-planning-versus-human-resource-planning/</guid>
-      <description>&lt;p&gt;The differences between manpower planning and human resource planning will be outlined within this essay along with how human resource planning has built on and developed traditional manpower planning. The main sources of information to compile this assignment have come mostly from Coleraine and Jordanstown University of Ulster Libraries and the books used and referred to have been listed in the references and bibliography section of this essay.&lt;/p&gt;&#xA;&lt;h2 id=&#34;manpower-planning&#34;&gt;MANPOWER PLANNING&lt;/h2&gt;&#xA;&lt;p&gt;The main reason the process of manpower planning came about was to help the management of employees within a business organization.  Manpower planning looks at the organizations current and future need of labour within the business.  The current and future employment needs are a great concern and the examination of supply within the local area for possible new employees if required.&lt;/p&gt;</description>
+      <description>&lt;p&gt;The differences between manpower planning and human resource planning will be outlined within this essay along with how human resource planning has built on and developed traditional manpower planning. The main sources of information to compile this assignment have come mostly from Coleraine and Jordanstown University of Ulster Libraries and the books used and referred to have been listed in the references and bibliography section of this essay.&lt;/p&gt;
+&lt;h2 id=&#34;manpower-planning&#34;&gt;MANPOWER PLANNING&lt;/h2&gt;
+&lt;p&gt;The main reason the process of manpower planning came about was to help the management of employees within a business organization.  Manpower planning looks at the organizations current and future need of labour within the business.  The current and future employment needs are a great concern and the examination of supply within the local area for possible new employees if required.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

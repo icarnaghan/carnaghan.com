@@ -1,10 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Digital-Media on Ian Carnaghan</title>
     <link>https://www.carnaghan.com/categories/digital-media/</link>
     <description>Recent content in Digital-Media on Ian Carnaghan</description>
-    <generator>Hugo</generator>
+    <image>
+      <title>Ian Carnaghan</title>
+      <url>https://www.carnaghan.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://www.carnaghan.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.147.9</generator>
     <language>en</language>
     <lastBuildDate>Tue, 24 Sep 2019 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.carnaghan.com/categories/digital-media/index.xml" rel="self" type="application/rss+xml" />
@@ -13,7 +18,8 @@
       <link>https://www.carnaghan.com/7-ways-to-improve-your-sites-crawlability-and-why-you-should/</link>
       <pubDate>Tue, 24 Sep 2019 00:00:00 +0000</pubDate>
       <guid>https://www.carnaghan.com/7-ways-to-improve-your-sites-crawlability-and-why-you-should/</guid>
-      <description>&lt;p&gt;While keyword research, link-building, content optimization, and other on-page strategies can improve your domain&amp;rsquo;s search ranking, search engine optimization (SEO) starts with getting your pages indexed and to do that you need to ensure they&amp;rsquo;re crawler-friendly.&lt;/p&gt;&#xA;&lt;p&gt;Crawler bots, like human users, appreciate sites which have clear, structured, readable data. However, since crawlers can only spend a limited amount of time and resources per site, domains with incoherent site maps, broken links, or 404 errors might not get indexed at all, effectively invisibilizing it for all potential users.&lt;/p&gt;</description>
+      <description>&lt;p&gt;While keyword research, link-building, content optimization, and other on-page strategies can improve your domain&amp;rsquo;s search ranking, search engine optimization (SEO) starts with getting your pages indexed and to do that you need to ensure they&amp;rsquo;re crawler-friendly.&lt;/p&gt;
+&lt;p&gt;Crawler bots, like human users, appreciate sites which have clear, structured, readable data. However, since crawlers can only spend a limited amount of time and resources per site, domains with incoherent site maps, broken links, or 404 errors might not get indexed at all, effectively invisibilizing it for all potential users.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Social Commerce in a nutshell – the next generation of marketing!</title>
@@ -27,7 +33,10 @@
       <link>https://www.carnaghan.com/mythemeshop-authority-theme-review-2018-feature-packed-seo-optimized-template/</link>
       <pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
       <guid>https://www.carnaghan.com/mythemeshop-authority-theme-review-2018-feature-packed-seo-optimized-template/</guid>
-      <description>&lt;p&gt;Authority is one of the best-selling WordPress templates of MyThemeShop. It has a large number of users. It is inspired by design of the website of popular blogger Matthew Woodward.&lt;/p&gt;&#xA;&lt;p&gt;Authority is a responsive WordPress theme that supports customization of almost every element you&amp;rsquo;ll find on it. It has amazing page speed. It is a premium template with great design and plenty of options.&lt;/p&gt;&#xA;&lt;h2 id=&#34;mythemeshop-authority-wordpress-theme-review&#34;&gt;MyThemeShop Authority WordPress theme review&lt;/h2&gt;&#xA;&lt;p&gt;Once you buy the theme, download its ZIP file and upload it to the wp-content folder of your blog. Extract the zip file and activate the theme from your WordPress dashboard.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Authority is one of the best-selling WordPress templates of MyThemeShop. It has a large number of users. It is inspired by design of the website of popular blogger Matthew Woodward.&lt;/p&gt;
+&lt;p&gt;Authority is a responsive WordPress theme that supports customization of almost every element you&amp;rsquo;ll find on it. It has amazing page speed. It is a premium template with great design and plenty of options.&lt;/p&gt;
+&lt;h2 id=&#34;mythemeshop-authority-wordpress-theme-review&#34;&gt;MyThemeShop Authority WordPress theme review&lt;/h2&gt;
+&lt;p&gt;Once you buy the theme, download its ZIP file and upload it to the wp-content folder of your blog. Extract the zip file and activate the theme from your WordPress dashboard.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Tips on How to be a Successful Blogger</title>
@@ -223,7 +232,8 @@
       <link>https://www.carnaghan.com/new-digg-clone-thuhm-updates-design-and-added-features/</link>
       <pubDate>Sat, 27 Feb 2010 00:00:00 +0000</pubDate>
       <guid>https://www.carnaghan.com/new-digg-clone-thuhm-updates-design-and-added-features/</guid>
-      <description>&lt;p&gt;I had written a Review for Thuhm a while back, and have to say I still love the app. It&amp;rsquo;s a brand new social news website for sharing all kinds of news, and it combines the best features of Reddit and Digg together.&lt;/p&gt;&#xA;&lt;p&gt;Although still just breaking off the ground, Thuhm has a lot to offer it&amp;rsquo;s readers. Recently there had been a post mentioning new updates on the site, including a new front page design and the addition of categories.&lt;/p&gt;</description>
+      <description>&lt;p&gt;I had written a Review for Thuhm a while back, and have to say I still love the app. It&amp;rsquo;s a brand new social news website for sharing all kinds of news, and it combines the best features of Reddit and Digg together.&lt;/p&gt;
+&lt;p&gt;Although still just breaking off the ground, Thuhm has a lot to offer it&amp;rsquo;s readers. Recently there had been a post mentioning new updates on the site, including a new front page design and the addition of categories.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Utilizing DesignMoo for Social Media Traffic to your Design Blog</title>
@@ -370,7 +380,9 @@
       <link>https://www.carnaghan.com/mobile-device-applications-from-a-development-perspective/</link>
       <pubDate>Thu, 22 Oct 2009 00:00:00 +0000</pubDate>
       <guid>https://www.carnaghan.com/mobile-device-applications-from-a-development-perspective/</guid>
-      <description>&lt;h3 id=&#34;limitations-and-opportunities-explored&#34;&gt;Limitations and opportunities explored&lt;/h3&gt;&#xA;&lt;p&gt;Mobile devices have many positive aspects including opening up networking channels and increasing the accessibility of information, but as with any new technology, potential pitfalls must be researched, remedied and cautiously provided for.  This literature review discusses several potential pitfalls of mobile technologies as well as potential opportunities faced by developers of software as well as mobile device manufacturers.&lt;/p&gt;&#xA;&lt;p&gt;More specifically, several themes are highlighted through existing literature on areas concerned with the development of mobile applications.  These themes include context awareness, mobile security, usability and accessibility.  By focusing on these themes and researching the literature available, the developer will be better equipped to face the challenges and opportunities ahead in order to create practical and usable applications.&lt;/p&gt;</description>
+      <description>&lt;h3 id=&#34;limitations-and-opportunities-explored&#34;&gt;Limitations and opportunities explored&lt;/h3&gt;
+&lt;p&gt;Mobile devices have many positive aspects including opening up networking channels and increasing the accessibility of information, but as with any new technology, potential pitfalls must be researched, remedied and cautiously provided for.  This literature review discusses several potential pitfalls of mobile technologies as well as potential opportunities faced by developers of software as well as mobile device manufacturers.&lt;/p&gt;
+&lt;p&gt;More specifically, several themes are highlighted through existing literature on areas concerned with the development of mobile applications.  These themes include context awareness, mobile security, usability and accessibility.  By focusing on these themes and researching the literature available, the developer will be better equipped to face the challenges and opportunities ahead in order to create practical and usable applications.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Founder of Omegle.com Answers Questions From Redditors</title>
@@ -552,14 +564,16 @@
       <link>https://www.carnaghan.com/the-3com-audrey/</link>
       <pubDate>Sun, 14 Jan 2001 00:00:00 +0000</pubDate>
       <guid>https://www.carnaghan.com/the-3com-audrey/</guid>
-      <description>&lt;p&gt;The Internet has become extremely popular within the last few years, however there are many people throughout the world that cannot afford to invest money on expensive PC systems to access this vast service of information and services.  To combat this problem, products have been released recently to allow Internet access at a reduced cost, a complete Internet solution without the cost of purchasing a PC.&lt;/p&gt;&#xA;&lt;p&gt;3Com is such a company that has released a system called Audrey.  Audrey has been designed no only to be a cost-effective solution, but also an easy to use appliance suited towards the home family.  It has been designed with a futuristic look of many of the sci-fi television shows suited for family use of the new millennium.&lt;/p&gt;</description>
+      <description>&lt;p&gt;The Internet has become extremely popular within the last few years, however there are many people throughout the world that cannot afford to invest money on expensive PC systems to access this vast service of information and services.  To combat this problem, products have been released recently to allow Internet access at a reduced cost, a complete Internet solution without the cost of purchasing a PC.&lt;/p&gt;
+&lt;p&gt;3Com is such a company that has released a system called Audrey.  Audrey has been designed no only to be a cost-effective solution, but also an easy to use appliance suited towards the home family.  It has been designed with a futuristic look of many of the sci-fi television shows suited for family use of the new millennium.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Yahoo Search Engine</title>
       <link>https://www.carnaghan.com/yahoo-search-engine/</link>
       <pubDate>Tue, 09 Jan 2001 00:00:00 +0000</pubDate>
       <guid>https://www.carnaghan.com/yahoo-search-engine/</guid>
-      <description>&lt;p&gt;Yahoo’s Search engine is broken down into categories and sub categories which allows users to browse through directories down to the levels of information they are seeking.  This is a lot more noticeable than many other search engines, which offer many categories but does not specifically split up sub categories into as many options.&lt;/p&gt;&#xA;&lt;p&gt;Within Yahoo Advanced Search link on the home page, users can perform a variety of different search techniques.  There are four main search methods listed under this area.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Yahoo’s Search engine is broken down into categories and sub categories which allows users to browse through directories down to the levels of information they are seeking.  This is a lot more noticeable than many other search engines, which offer many categories but does not specifically split up sub categories into as many options.&lt;/p&gt;
+&lt;p&gt;Within Yahoo Advanced Search link on the home page, users can perform a variety of different search techniques.  There are four main search methods listed under this area.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

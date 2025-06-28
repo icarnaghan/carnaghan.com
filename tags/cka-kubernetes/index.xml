@@ -1,10 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Cka, Kubernetes on Ian Carnaghan</title>
     <link>https://www.carnaghan.com/tags/cka-kubernetes/</link>
     <description>Recent content in Cka, Kubernetes on Ian Carnaghan</description>
-    <generator>Hugo</generator>
+    <image>
+      <title>Ian Carnaghan</title>
+      <url>https://www.carnaghan.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://www.carnaghan.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.147.9</generator>
     <language>en</language>
     <lastBuildDate>Mon, 23 Jun 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.carnaghan.com/tags/cka-kubernetes/index.xml" rel="self" type="application/rss+xml" />
@@ -13,7 +18,8 @@
       <link>https://www.carnaghan.com/cka-study-notes-kubectl-basics/</link>
       <pubDate>Mon, 23 Jun 2025 00:00:00 +0000</pubDate>
       <guid>https://www.carnaghan.com/cka-study-notes-kubectl-basics/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;ve recently started studying for the Certified Kubernetes Administrator (CKA) exam and as such I&amp;rsquo;m capturing some of my study notes here. When you&amp;rsquo;re first diving into Kubernetes, the command-line tool kubectl becomes your new best friend. But like any new tool, remembering the right commands can be challengins, especially when you&amp;rsquo;re trying to troubleshoot or quickly inspect your cluster.&lt;/p&gt;&#xA;&lt;p&gt;This is my own quick-reference guide for working with kubectl, with just enough commentary to help it stick. If you&amp;rsquo;re interested in learning more I would recommend visiting the &lt;a href=&#34;https://kubernetes.io/docs/home/&#34;&gt;Official Kubernetes Documentation site&lt;/a&gt;, which covers everything you need.&lt;/p&gt;</description>
+      <description>&lt;p&gt;I&amp;rsquo;ve recently started studying for the Certified Kubernetes Administrator (CKA) exam and as such I&amp;rsquo;m capturing some of my study notes here. When you&amp;rsquo;re first diving into Kubernetes, the command-line tool kubectl becomes your new best friend. But like any new tool, remembering the right commands can be challengins, especially when you&amp;rsquo;re trying to troubleshoot or quickly inspect your cluster.&lt;/p&gt;
+&lt;p&gt;This is my own quick-reference guide for working with kubectl, with just enough commentary to help it stick. If you&amp;rsquo;re interested in learning more I would recommend visiting the &lt;a href=&#34;https://kubernetes.io/docs/home/&#34;&gt;Official Kubernetes Documentation site&lt;/a&gt;, which covers everything you need.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

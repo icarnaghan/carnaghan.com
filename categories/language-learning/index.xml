@@ -1,10 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Language-Learning on Ian Carnaghan</title>
     <link>https://www.carnaghan.com/categories/language-learning/</link>
     <description>Recent content in Language-Learning on Ian Carnaghan</description>
-    <generator>Hugo</generator>
+    <image>
+      <title>Ian Carnaghan</title>
+      <url>https://www.carnaghan.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://www.carnaghan.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.147.9</generator>
     <language>en</language>
     <lastBuildDate>Sun, 25 Oct 2020 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.carnaghan.com/categories/language-learning/index.xml" rel="self" type="application/rss+xml" />
@@ -20,7 +25,8 @@
       <link>https://www.carnaghan.com/my-language-learning-journey/</link>
       <pubDate>Wed, 20 May 2020 00:00:00 +0000</pubDate>
       <guid>https://www.carnaghan.com/my-language-learning-journey/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;ve always had an interest in learning Spanish. Over the years, I&amp;rsquo;ve dabbled with various language learning programs, however I never really stuck at them for long.  I have probably spent more time researching language learning programs and techniques, than I have actually practiced the language.&lt;/p&gt;&#xA;&lt;p&gt;The United States Foreign Service Institute, or FSI, estimates that the Spanish language takes approximately 750 hours of study to build fluency. Unfortunately, FSI classes are reserved for Diplomats and involve dedicating 30 weeks of full-time study to reach the desired hours needed for mastery.  My approach has involved a longer-term strategy involving daily practice and drills using multiple modes of learning, vocabulary building using spaced repetition, and immersion techniques.&lt;/p&gt;</description>
+      <description>&lt;p&gt;I&amp;rsquo;ve always had an interest in learning Spanish. Over the years, I&amp;rsquo;ve dabbled with various language learning programs, however I never really stuck at them for long.  I have probably spent more time researching language learning programs and techniques, than I have actually practiced the language.&lt;/p&gt;
+&lt;p&gt;The United States Foreign Service Institute, or FSI, estimates that the Spanish language takes approximately 750 hours of study to build fluency. Unfortunately, FSI classes are reserved for Diplomats and involve dedicating 30 weeks of full-time study to reach the desired hours needed for mastery.  My approach has involved a longer-term strategy involving daily practice and drills using multiple modes of learning, vocabulary building using spaced repetition, and immersion techniques.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Spanish Language Learning Resources</title>

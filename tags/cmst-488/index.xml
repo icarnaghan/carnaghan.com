@@ -1,10 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Cmst-488 on Ian Carnaghan</title>
     <link>https://www.carnaghan.com/tags/cmst-488/</link>
     <description>Recent content in Cmst-488 on Ian Carnaghan</description>
-    <generator>Hugo</generator>
+    <image>
+      <title>Ian Carnaghan</title>
+      <url>https://www.carnaghan.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://www.carnaghan.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.147.9</generator>
     <language>en</language>
     <lastBuildDate>Sun, 11 Nov 2018 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.carnaghan.com/tags/cmst-488/index.xml" rel="self" type="application/rss+xml" />
@@ -13,7 +18,9 @@
       <link>https://www.carnaghan.com/using-javascript-fetch-api-to-retrieve-sample-json-data/</link>
       <pubDate>Sun, 11 Nov 2018 00:00:00 +0000</pubDate>
       <guid>https://www.carnaghan.com/using-javascript-fetch-api-to-retrieve-sample-json-data/</guid>
-      <description>&lt;p&gt;A while ago I wrote an article called Using jQuery.AJAX() to Retrieve Sample JSON Data. Since this time I&amp;rsquo;ve been slowly using more and more native JavaScript to get things done, so I thought it was time to revisit this concept using the fetch() API.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;It has been very convenient over the years to use jQuery to simplify tasks that otherwise would have been more challenging to write in native JavaScript. Since ES6 has become pretty much mainstream nowadays, it is safe to take advantage of some of the features and benefits it brings.&lt;/p&gt;</description>
+      <description>&lt;p&gt;A while ago I wrote an article called Using jQuery.AJAX() to Retrieve Sample JSON Data. Since this time I&amp;rsquo;ve been slowly using more and more native JavaScript to get things done, so I thought it was time to revisit this concept using the fetch() API.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;It has been very convenient over the years to use jQuery to simplify tasks that otherwise would have been more challenging to write in native JavaScript. Since ES6 has become pretty much mainstream nowadays, it is safe to take advantage of some of the features and benefits it brings.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Using jQuery.AJAX() to Retrieve Sample JSON Data</title>

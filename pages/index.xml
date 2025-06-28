@@ -1,10 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Pages on Ian Carnaghan</title>
     <link>https://www.carnaghan.com/pages/</link>
     <description>Recent content in Pages on Ian Carnaghan</description>
-    <generator>Hugo</generator>
+    <image>
+      <title>Ian Carnaghan</title>
+      <url>https://www.carnaghan.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://www.carnaghan.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.147.9</generator>
     <language>en</language>
     <lastBuildDate>Tue, 09 Mar 2021 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.carnaghan.com/pages/index.xml" rel="self" type="application/rss+xml" />
@@ -13,7 +18,20 @@
       <link>https://www.carnaghan.com/bitesize-javascript/</link>
       <pubDate>Tue, 09 Mar 2021 00:00:00 +0000</pubDate>
       <guid>https://www.carnaghan.com/bitesize-javascript/</guid>
-      <description>&lt;p&gt;Bitesize JavaScript is a series of short lessons covering fundamental coding concepts. The goal is to quickly introduce you to the language and provide you with enough information to begin exploring the concepts in more depth. Each lesson is designed take a short amount of time to digest new topics and then apply them through example.&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.carnaghan.com/javascript-data-types-values-and-variables&#34;&gt;JavaScript Data Types, Values, and Variables&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.carnaghan.com/javascript-operators&#34;&gt;JavaScript Operators&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.carnaghan.com/javascript-conditional-statements&#34;&gt;JavaScript Conditional Statements&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.carnaghan.com/javascript-loops&#34;&gt;JavaScript Loops&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.carnaghan.com/javascript-functions&#34;&gt;JavaScript Functions&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.carnaghan.com/javascript-call-stack&#34;&gt;JavaScript Call Stack&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.carnaghan.com/javascript-scope&#34;&gt;JavaScript Scope&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.carnaghan.com/javascript-arrays-fundamentals&#34;&gt;JavaScript Arrays – Fundamentals&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.carnaghan.com/javascript-arrays-properties-and-methods&#34;&gt;JavaScript Arrays – Properties and Methods&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.carnaghan.com/javascript-objects&#34;&gt;JavaScript Objects&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.carnaghan.com/javascript-manipulating-the-document-object-model-dom&#34;&gt;JavaScript Manipulating the Document Object Model (DOM)&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
+      <description>&lt;p&gt;Bitesize JavaScript is a series of short lessons covering fundamental coding concepts. The goal is to quickly introduce you to the language and provide you with enough information to begin exploring the concepts in more depth. Each lesson is designed take a short amount of time to digest new topics and then apply them through example.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.carnaghan.com/javascript-data-types-values-and-variables&#34;&gt;JavaScript Data Types, Values, and Variables&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.carnaghan.com/javascript-operators&#34;&gt;JavaScript Operators&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.carnaghan.com/javascript-conditional-statements&#34;&gt;JavaScript Conditional Statements&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.carnaghan.com/javascript-loops&#34;&gt;JavaScript Loops&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.carnaghan.com/javascript-functions&#34;&gt;JavaScript Functions&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.carnaghan.com/javascript-call-stack&#34;&gt;JavaScript Call Stack&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.carnaghan.com/javascript-scope&#34;&gt;JavaScript Scope&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.carnaghan.com/javascript-arrays-fundamentals&#34;&gt;JavaScript Arrays – Fundamentals&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.carnaghan.com/javascript-arrays-properties-and-methods&#34;&gt;JavaScript Arrays – Properties and Methods&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.carnaghan.com/javascript-objects&#34;&gt;JavaScript Objects&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.carnaghan.com/javascript-manipulating-the-document-object-model-dom&#34;&gt;JavaScript Manipulating the Document Object Model (DOM)&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;</description>
     </item>
     <item>
       <title>Contact Me</title>
@@ -34,14 +52,20 @@
       <link>https://www.carnaghan.com/privacy-policy/</link>
       <pubDate>Sat, 06 Jan 2018 00:00:00 +0000</pubDate>
       <guid>https://www.carnaghan.com/privacy-policy/</guid>
-      <description>&lt;h2 id=&#34;who-we-are&#34;&gt;Who we are&lt;/h2&gt;&#xA;&lt;p&gt;Our website address is: &lt;a href=&#34;http://www.carnaghan.com&#34;&gt;http://www.carnaghan.com&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;h2 id=&#34;what-personal-data-we-collect-and-why-we-collect-it&#34;&gt;What personal data we collect and why we collect it&lt;/h2&gt;&#xA;&lt;h3 id=&#34;comments&#34;&gt;Comments&lt;/h3&gt;&#xA;&lt;p&gt;When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor’s IP address and browser user agent string to help spam detection.&lt;/p&gt;&#xA;&lt;p&gt;An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: &lt;a href=&#34;https://automattic.com/privacy/&#34;&gt;https://automattic.com/privacy/&lt;/a&gt;. After approval of your comment, your profile picture is visible to the public in the context of your comment.&lt;/p&gt;</description>
+      <description>&lt;h2 id=&#34;who-we-are&#34;&gt;Who we are&lt;/h2&gt;
+&lt;p&gt;Our website address is: &lt;a href=&#34;http://www.carnaghan.com&#34;&gt;http://www.carnaghan.com&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;what-personal-data-we-collect-and-why-we-collect-it&#34;&gt;What personal data we collect and why we collect it&lt;/h2&gt;
+&lt;h3 id=&#34;comments&#34;&gt;Comments&lt;/h3&gt;
+&lt;p&gt;When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor’s IP address and browser user agent string to help spam detection.&lt;/p&gt;
+&lt;p&gt;An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: &lt;a href=&#34;https://automattic.com/privacy/&#34;&gt;https://automattic.com/privacy/&lt;/a&gt;. After approval of your comment, your profile picture is visible to the public in the context of your comment.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Home</title>
       <link>https://www.carnaghan.com/home/</link>
       <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
       <guid>https://www.carnaghan.com/home/</guid>
-      <description>&lt;h1 id=&#34;this-is-the-home-page-content&#34;&gt;This is the home page content&lt;/h1&gt;&#xA;&lt;p&gt;You can choose from several different content types to display here. This example shows the home page content displayed in this area. Whatever you put in the home page editor will automatically appear here.&lt;/p&gt;</description>
+      <description>&lt;h1 id=&#34;this-is-the-home-page-content&#34;&gt;This is the home page content&lt;/h1&gt;
+&lt;p&gt;You can choose from several different content types to display here. This example shows the home page content displayed in this area. Whatever you put in the home page editor will automatically appear here.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Curriculum Start</title>
@@ -62,14 +86,19 @@
       <link>https://www.carnaghan.com/classes-i-teach/</link>
       <pubDate>Mon, 27 Apr 2015 00:00:00 +0000</pubDate>
       <guid>https://www.carnaghan.com/classes-i-teach/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;ve been teaching at the University of Maryland University College for just over a decade. Below are the classes I am currently teaching or will be teaching in the upcoming semester. For more details on these classes including schedule and syllabus see UMUC Schedule of Classes.&lt;/p&gt;&#xA;&lt;h2 id=&#34;current-20202021-school-year&#34;&gt;Current 2020/2021 School Year&lt;/h2&gt;&#xA;&lt;p&gt;CMST 388 Fundamentals of JavaScript | 3 Credits&lt;/p&gt;&#xA;&lt;p&gt;Prerequisite: CMST 386. Recommended: CMST 290. A hands-on, project-based study of JavaScript using a structured programming approach to build dynamic, interactive web pages. The goal is to use client-side JavaScript to create interactive, cross-browser-compatible web pages that minimize security and privacy vulnerabilities. Topics include form validation, web development tools, documentation, dynamic HTML, event handling, cross-browser compatibility, cookies, and security issues. Programming projects are included. Students may receive credit for only one of the following courses: CMST 398J or CMST 388.&lt;/p&gt;</description>
+      <description>&lt;p&gt;I&amp;rsquo;ve been teaching at the University of Maryland University College for just over a decade. Below are the classes I am currently teaching or will be teaching in the upcoming semester. For more details on these classes including schedule and syllabus see UMUC Schedule of Classes.&lt;/p&gt;
+&lt;h2 id=&#34;current-20202021-school-year&#34;&gt;Current 2020/2021 School Year&lt;/h2&gt;
+&lt;p&gt;CMST 388 Fundamentals of JavaScript | 3 Credits&lt;/p&gt;
+&lt;p&gt;Prerequisite: CMST 386. Recommended: CMST 290. A hands-on, project-based study of JavaScript using a structured programming approach to build dynamic, interactive web pages. The goal is to use client-side JavaScript to create interactive, cross-browser-compatible web pages that minimize security and privacy vulnerabilities. Topics include form validation, web development tools, documentation, dynamic HTML, event handling, cross-browser compatibility, cookies, and security issues. Programming projects are included. Students may receive credit for only one of the following courses: CMST 398J or CMST 388.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Publications and Papers</title>
       <link>https://www.carnaghan.com/publications-and-papers/</link>
       <pubDate>Mon, 27 Apr 2015 00:00:00 +0000</pubDate>
       <guid>https://www.carnaghan.com/publications-and-papers/</guid>
-      <description>&lt;p&gt;See &lt;strong&gt;Academic Papers&lt;/strong&gt; for a list of articles I have published on this blog through my graduate programs. Below, I have included my completed doctoral dissertation for anyone to enjoy.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;An Expeditionary Learning Approach to Effective Curriculum Mapping Formalizing the Process by Exploring a User-Centered Framework&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Monarch Academy is an Expeditionary Learning (EL) institution, which utilizes a non-traditional educational model that combines all subjects into semester-long projects known as expeditions. In order to properly track the progress of students and to ensure the school is meeting its educational goals, including alignment with Common Core, a process called curriculum mapping has been implemented informally; however, the process has not been centralized nor is it easily accessible by staff and administrators. Commercial curriculum mapping software was researched by administrators, but none met the unique requirements of EL. This study explores and defines a curriculum mapping solution that meets Monarch Academy&amp;rsquo;s needs by providing a centralized, accessible, manageable, and user-centered framework.&lt;/p&gt;</description>
+      <description>&lt;p&gt;See &lt;strong&gt;Academic Papers&lt;/strong&gt; for a list of articles I have published on this blog through my graduate programs. Below, I have included my completed doctoral dissertation for anyone to enjoy.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;An Expeditionary Learning Approach to Effective Curriculum Mapping Formalizing the Process by Exploring a User-Centered Framework&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Monarch Academy is an Expeditionary Learning (EL) institution, which utilizes a non-traditional educational model that combines all subjects into semester-long projects known as expeditions. In order to properly track the progress of students and to ensure the school is meeting its educational goals, including alignment with Common Core, a process called curriculum mapping has been implemented informally; however, the process has not been centralized nor is it easily accessible by staff and administrators. Commercial curriculum mapping software was researched by administrators, but none met the unique requirements of EL. This study explores and defines a curriculum mapping solution that meets Monarch Academy&amp;rsquo;s needs by providing a centralized, accessible, manageable, and user-centered framework.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -1,10 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Csec-610 on Ian Carnaghan</title>
     <link>https://www.carnaghan.com/tags/csec-610/</link>
     <description>Recent content in Csec-610 on Ian Carnaghan</description>
-    <generator>Hugo</generator>
+    <image>
+      <title>Ian Carnaghan</title>
+      <url>https://www.carnaghan.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://www.carnaghan.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.147.9</generator>
     <language>en</language>
     <lastBuildDate>Fri, 01 Apr 2011 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.carnaghan.com/tags/csec-610/index.xml" rel="self" type="application/rss+xml" />
@@ -13,7 +18,8 @@
       <link>https://www.carnaghan.com/security-of-information-systems-infrastructure-of-an-international-airport/</link>
       <pubDate>Fri, 01 Apr 2011 00:00:00 +0000</pubDate>
       <guid>https://www.carnaghan.com/security-of-information-systems-infrastructure-of-an-international-airport/</guid>
-      <description>&lt;p&gt;As information systems in airports continue to grow in both size and complexity, so too do the risks associated with security vulnerabilities and threats.  Since the terrorist attacks on September 2001, airport security has substantially increased in day to day operations to address modern threats that the transportation infrastructure faces.  Terrorist attacks however are only a portion of the security threats that an international airport faces.&lt;/p&gt;&#xA;&lt;p&gt;Advanced systems used in airports from customer ticketing and check-in, immigration and customs to air traffic control are all depended on daily to maintain operations involving vast numbers of customers travelling throughout the world.  These systems must be secured from a number of threats.  First and foremost, an international airport must be prepared for threats to its physical infrastructure including natural disasters as well as the danger of deliberate attacks.  Risks involved with untrustworthy employees or consultants should be appropriately mitigated through necessary systems permissions and auditing.  External threats of cyber attacks either through the airport’s website booking system or other vulnerable gaps within the information systems must be adequately addressed.  Operations within an airport that are vital to human safety must take a high priority with regards to security investment.&lt;/p&gt;</description>
+      <description>&lt;p&gt;As information systems in airports continue to grow in both size and complexity, so too do the risks associated with security vulnerabilities and threats.  Since the terrorist attacks on September 2001, airport security has substantially increased in day to day operations to address modern threats that the transportation infrastructure faces.  Terrorist attacks however are only a portion of the security threats that an international airport faces.&lt;/p&gt;
+&lt;p&gt;Advanced systems used in airports from customer ticketing and check-in, immigration and customs to air traffic control are all depended on daily to maintain operations involving vast numbers of customers travelling throughout the world.  These systems must be secured from a number of threats.  First and foremost, an international airport must be prepared for threats to its physical infrastructure including natural disasters as well as the danger of deliberate attacks.  Risks involved with untrustworthy employees or consultants should be appropriately mitigated through necessary systems permissions and auditing.  External threats of cyber attacks either through the airport’s website booking system or other vulnerable gaps within the information systems must be adequately addressed.  Operations within an airport that are vital to human safety must take a high priority with regards to security investment.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Baseline Security Analyzer - Testing a Standard Installation of Windows Web Server 2008 R2</title>
@@ -41,7 +47,8 @@
       <link>https://www.carnaghan.com/password-cracking-an-exercise-using-cain-and-abel-to-crack-user-passwords/</link>
       <pubDate>Fri, 25 Feb 2011 00:00:00 +0000</pubDate>
       <guid>https://www.carnaghan.com/password-cracking-an-exercise-using-cain-and-abel-to-crack-user-passwords/</guid>
-      <description>&lt;p&gt;The objective of this exercise was to use the various password cracking tools available in the Cain and Abel software application and to determine the efficiency and effectiveness of each technique.  The following user accounts were created for testing purposes.  The first user account had a relatively easy to break password and the two that followed had slightly more complex password structures.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Username           Password            Character set&lt;/strong&gt; ictest1                   testing                  Lowercase letters ictest2                   break1ng             Lowercase letters and numbers ictest3                   Bre@k1ng           Lowercase letters, uppercase letters, numbers and symbols&lt;/p&gt;</description>
+      <description>&lt;p&gt;The objective of this exercise was to use the various password cracking tools available in the Cain and Abel software application and to determine the efficiency and effectiveness of each technique.  The following user accounts were created for testing purposes.  The first user account had a relatively easy to break password and the two that followed had slightly more complex password structures.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Username           Password            Character set&lt;/strong&gt; ictest1                   testing                  Lowercase letters ictest2                   break1ng             Lowercase letters and numbers ictest3                   Bre@k1ng           Lowercase letters, uppercase letters, numbers and symbols&lt;/p&gt;</description>
     </item>
     <item>
       <title>Malicious Code Intrusion</title>

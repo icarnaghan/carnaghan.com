@@ -1,10 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Microsoft on Ian Carnaghan</title>
     <link>https://www.carnaghan.com/tags/microsoft/</link>
     <description>Recent content in Microsoft on Ian Carnaghan</description>
-    <generator>Hugo</generator>
+    <image>
+      <title>Ian Carnaghan</title>
+      <url>https://www.carnaghan.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://www.carnaghan.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.147.9</generator>
     <language>en</language>
     <lastBuildDate>Thu, 22 Feb 2018 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.carnaghan.com/tags/microsoft/index.xml" rel="self" type="application/rss+xml" />
@@ -13,7 +18,9 @@
       <link>https://www.carnaghan.com/top-10-best-vscode-extensions/</link>
       <pubDate>Thu, 22 Feb 2018 00:00:00 +0000</pubDate>
       <guid>https://www.carnaghan.com/top-10-best-vscode-extensions/</guid>
-      <description>&lt;p&gt;Because of erroneous PHP and Java extensions, I&amp;rsquo;ve switched from Atom to Microsoft&amp;rsquo;s VSCode aka Visual Code Editor for writing applications.&lt;/p&gt;&#xA;&lt;p&gt;VSCode is a powerful editor. With the help of some extensions, you can use VSCode as a replacement for RAM hogging Integrated Development Environments.&lt;/p&gt;&#xA;&lt;p&gt;If you&amp;rsquo;ve just installed VScode and you&amp;rsquo;re searching for extensions that will improve your productivity, you&amp;rsquo;re at the right place. Below, I&amp;rsquo;ve shared the list of best Visual Code extensions.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Because of erroneous PHP and Java extensions, I&amp;rsquo;ve switched from Atom to Microsoft&amp;rsquo;s VSCode aka Visual Code Editor for writing applications.&lt;/p&gt;
+&lt;p&gt;VSCode is a powerful editor. With the help of some extensions, you can use VSCode as a replacement for RAM hogging Integrated Development Environments.&lt;/p&gt;
+&lt;p&gt;If you&amp;rsquo;ve just installed VScode and you&amp;rsquo;re searching for extensions that will improve your productivity, you&amp;rsquo;re at the right place. Below, I&amp;rsquo;ve shared the list of best Visual Code extensions.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Microsoft Office 2010 Outlook has some New Digs</title>

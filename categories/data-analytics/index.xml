@@ -1,10 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Data-Analytics on Ian Carnaghan</title>
     <link>https://www.carnaghan.com/categories/data-analytics/</link>
     <description>Recent content in Data-Analytics on Ian Carnaghan</description>
-    <generator>Hugo</generator>
+    <image>
+      <title>Ian Carnaghan</title>
+      <url>https://www.carnaghan.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://www.carnaghan.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.147.9</generator>
     <language>en</language>
     <lastBuildDate>Mon, 04 Mar 2019 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.carnaghan.com/categories/data-analytics/index.xml" rel="self" type="application/rss+xml" />
@@ -27,7 +32,79 @@
       <link>https://www.carnaghan.com/simple-predictive-modeling-with-watson-analytics/</link>
       <pubDate>Mon, 29 Oct 2018 00:00:00 +0000</pubDate>
       <guid>https://www.carnaghan.com/simple-predictive-modeling-with-watson-analytics/</guid>
-      <description>&lt;p&gt;This article focuses on two different predictive models built from two different data sources from Kaggle, Laptop Price and Mobile Price Classification. Laptop Price consists of records of various laptop models, which was last updated six months ago from writing, adding additional laptop characteristics and prices. Mobile Price Classification provides data on mobile phones including price range classifications. The Laptop Prices data consists of the following variables:&lt;/p&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;&lt;strong&gt;Column Name&lt;/strong&gt;&lt;/th&gt;&#xA;          &lt;th&gt;&lt;strong&gt;Data Type&lt;/strong&gt;&lt;/th&gt;&#xA;          &lt;th&gt;&lt;strong&gt;Description&lt;/strong&gt;&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Company&lt;/td&gt;&#xA;          &lt;td&gt;String&lt;/td&gt;&#xA;          &lt;td&gt;Producer of Laptop&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Product&lt;/td&gt;&#xA;          &lt;td&gt;String&lt;/td&gt;&#xA;          &lt;td&gt;Make and Model&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;TypeName&lt;/td&gt;&#xA;          &lt;td&gt;String&lt;/td&gt;&#xA;          &lt;td&gt;Type (Notebook, Ultrabook, Gaming, etc.)&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Inches&lt;/td&gt;&#xA;          &lt;td&gt;Numeric&lt;/td&gt;&#xA;          &lt;td&gt;Screen Size&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;ScreenResolution&lt;/td&gt;&#xA;          &lt;td&gt;String&lt;/td&gt;&#xA;          &lt;td&gt;Screen Resolution&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Cpu&lt;/td&gt;&#xA;          &lt;td&gt;String&lt;/td&gt;&#xA;          &lt;td&gt;Laptop CPU&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Ram&lt;/td&gt;&#xA;          &lt;td&gt;String&lt;/td&gt;&#xA;          &lt;td&gt;Laptop RAM&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Memory&lt;/td&gt;&#xA;          &lt;td&gt;String&lt;/td&gt;&#xA;          &lt;td&gt;Hard Disk / SSD Memory&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;GPU&lt;/td&gt;&#xA;          &lt;td&gt;String&lt;/td&gt;&#xA;          &lt;td&gt;Graphics Processing Unit&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;OpSys&lt;/td&gt;&#xA;          &lt;td&gt;String&lt;/td&gt;&#xA;          &lt;td&gt;Operating System&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Weight&lt;/td&gt;&#xA;          &lt;td&gt;String&lt;/td&gt;&#xA;          &lt;td&gt;Laptop Weight&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Price_euros&lt;/td&gt;&#xA;          &lt;td&gt;Numeric&lt;/td&gt;&#xA;          &lt;td&gt;Price (In Euros)&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;p&gt;The Mobile Price Classification data consists of the following variables:&lt;/p&gt;</description>
+      <description>&lt;p&gt;This article focuses on two different predictive models built from two different data sources from Kaggle, Laptop Price and Mobile Price Classification. Laptop Price consists of records of various laptop models, which was last updated six months ago from writing, adding additional laptop characteristics and prices. Mobile Price Classification provides data on mobile phones including price range classifications. The Laptop Prices data consists of the following variables:&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;&lt;strong&gt;Column Name&lt;/strong&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;strong&gt;Data Type&lt;/strong&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;strong&gt;Description&lt;/strong&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Company&lt;/td&gt;
+          &lt;td&gt;String&lt;/td&gt;
+          &lt;td&gt;Producer of Laptop&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Product&lt;/td&gt;
+          &lt;td&gt;String&lt;/td&gt;
+          &lt;td&gt;Make and Model&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;TypeName&lt;/td&gt;
+          &lt;td&gt;String&lt;/td&gt;
+          &lt;td&gt;Type (Notebook, Ultrabook, Gaming, etc.)&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Inches&lt;/td&gt;
+          &lt;td&gt;Numeric&lt;/td&gt;
+          &lt;td&gt;Screen Size&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;ScreenResolution&lt;/td&gt;
+          &lt;td&gt;String&lt;/td&gt;
+          &lt;td&gt;Screen Resolution&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Cpu&lt;/td&gt;
+          &lt;td&gt;String&lt;/td&gt;
+          &lt;td&gt;Laptop CPU&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Ram&lt;/td&gt;
+          &lt;td&gt;String&lt;/td&gt;
+          &lt;td&gt;Laptop RAM&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Memory&lt;/td&gt;
+          &lt;td&gt;String&lt;/td&gt;
+          &lt;td&gt;Hard Disk / SSD Memory&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;GPU&lt;/td&gt;
+          &lt;td&gt;String&lt;/td&gt;
+          &lt;td&gt;Graphics Processing Unit&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;OpSys&lt;/td&gt;
+          &lt;td&gt;String&lt;/td&gt;
+          &lt;td&gt;Operating System&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Weight&lt;/td&gt;
+          &lt;td&gt;String&lt;/td&gt;
+          &lt;td&gt;Laptop Weight&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Price_euros&lt;/td&gt;
+          &lt;td&gt;Numeric&lt;/td&gt;
+          &lt;td&gt;Price (In Euros)&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;The Mobile Price Classification data consists of the following variables:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Exploratory Data Analysis with Watson Analytics</title>
@@ -41,7 +118,8 @@
       <link>https://www.carnaghan.com/is-your-organization-using-evidence-based-decision-making/</link>
       <pubDate>Tue, 02 Oct 2018 00:00:00 +0000</pubDate>
       <guid>https://www.carnaghan.com/is-your-organization-using-evidence-based-decision-making/</guid>
-      <description>&lt;p&gt;There are more ways to access data through a large amount of software tools than there has ever been in the history of analytics. We have access to a wealth of information that, if used properly, can help drive decisions and bring about success within organizations. Why then are so many top-level executive decisions driven by intuition and gut feel?&lt;/p&gt;&#xA;&lt;p&gt;There have been countless examples over the last decade of commercial failures that could have been avoided if a greater analytical approach had been adopted and used in evidence based thinking and decision making. Unfortunately adopting and integrating analytics into the operational and strategic decisions has it&amp;rsquo;s challenges. Two of the largest hurdles to successful integration of evidence-based decision making fall within the organizational culture and awareness or education.&lt;/p&gt;</description>
+      <description>&lt;p&gt;There are more ways to access data through a large amount of software tools than there has ever been in the history of analytics. We have access to a wealth of information that, if used properly, can help drive decisions and bring about success within organizations. Why then are so many top-level executive decisions driven by intuition and gut feel?&lt;/p&gt;
+&lt;p&gt;There have been countless examples over the last decade of commercial failures that could have been avoided if a greater analytical approach had been adopted and used in evidence based thinking and decision making. Unfortunately adopting and integrating analytics into the operational and strategic decisions has it&amp;rsquo;s challenges. Two of the largest hurdles to successful integration of evidence-based decision making fall within the organizational culture and awareness or education.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Using Data Analytics to Improve Heath Care</title>
@@ -62,7 +140,8 @@
       <link>https://www.carnaghan.com/poor-decisions-impacted-by-bias-in-software-development/</link>
       <pubDate>Sat, 15 Sep 2018 00:00:00 +0000</pubDate>
       <guid>https://www.carnaghan.com/poor-decisions-impacted-by-bias-in-software-development/</guid>
-      <description>&lt;p&gt;Beyond Bias provides an excellent overview of the five different categories of biases, similarity, expedience, experience, distance, and safety. As someone who has worked in the software development field for a number of years, I have witnessed accounts of poor decision making and its ramifications within the organizations I have worked for. Specifically within software development I have witnessed poor decision making during proposal efforts, architectural decisions, and delivery.&lt;/p&gt;&#xA;&lt;p&gt;Bidding on work, especially within the federal space, can be a time consuming and involved effort by many parties. On technical proposals, it is essential that the correct mix of people are part of the proposal team. I have observed how biases within the expedience domain can often come to play within business development. One project I was recently involved with in the last few years suffered from lack of technical input during the proposal phase, and availability and confirmation bias led the team to under bid the work. This had negative consequences on expectation of scope and delivery efforts later on. The situation could have been prevented by ensuring more technical expertise was placed within the team and those making the decisions affecting scope did an objective evidence.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Beyond Bias provides an excellent overview of the five different categories of biases, similarity, expedience, experience, distance, and safety. As someone who has worked in the software development field for a number of years, I have witnessed accounts of poor decision making and its ramifications within the organizations I have worked for. Specifically within software development I have witnessed poor decision making during proposal efforts, architectural decisions, and delivery.&lt;/p&gt;
+&lt;p&gt;Bidding on work, especially within the federal space, can be a time consuming and involved effort by many parties. On technical proposals, it is essential that the correct mix of people are part of the proposal team. I have observed how biases within the expedience domain can often come to play within business development. One project I was recently involved with in the last few years suffered from lack of technical input during the proposal phase, and availability and confirmation bias led the team to under bid the work. This had negative consequences on expectation of scope and delivery efforts later on. The situation could have been prevented by ensuring more technical expertise was placed within the team and those making the decisions affecting scope did an objective evidence.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

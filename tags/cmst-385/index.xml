@@ -1,10 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Cmst-385 on Ian Carnaghan</title>
     <link>https://www.carnaghan.com/tags/cmst-385/</link>
     <description>Recent content in Cmst-385 on Ian Carnaghan</description>
-    <generator>Hugo</generator>
+    <image>
+      <title>Ian Carnaghan</title>
+      <url>https://www.carnaghan.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://www.carnaghan.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.147.9</generator>
     <language>en</language>
     <lastBuildDate>Mon, 25 May 2015 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.carnaghan.com/tags/cmst-385/index.xml" rel="self" type="application/rss+xml" />
@@ -13,7 +18,8 @@
       <link>https://www.carnaghan.com/cmst-385-software-setup-and-webpage-publishing/</link>
       <pubDate>Mon, 25 May 2015 00:00:00 +0000</pubDate>
       <guid>https://www.carnaghan.com/cmst-385-software-setup-and-webpage-publishing/</guid>
-      <description>&lt;h2 id=&#34;software-setup&#34;&gt;Software Setup&lt;/h2&gt;&#xA;&lt;p&gt;For this class you will require three main applications, a text editor, an SSH client and an FTP client. A text editor will be used to write your HTML documents. SSH (Secure SHell) is a text based application which will enable you to setup your Nova web server account, which we will be using to host your web pages online. Finally an FTP (File Transfer Protocol) client will be needed to actually copy over or upload your files to Nova from your PC or Mac. I am recommending your install Atom for text editing, FileZilla for FTP, and PuTTY SSH client for Windows users.&lt;/p&gt;</description>
+      <description>&lt;h2 id=&#34;software-setup&#34;&gt;Software Setup&lt;/h2&gt;
+&lt;p&gt;For this class you will require three main applications, a text editor, an SSH client and an FTP client. A text editor will be used to write your HTML documents. SSH (Secure SHell) is a text based application which will enable you to setup your Nova web server account, which we will be using to host your web pages online. Finally an FTP (File Transfer Protocol) client will be needed to actually copy over or upload your files to Nova from your PC or Mac. I am recommending your install Atom for text editing, FileZilla for FTP, and PuTTY SSH client for Windows users.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Three Simple Steps to Setup Your UMUC Nova Server Account</title>
@@ -27,7 +33,9 @@
       <link>https://www.carnaghan.com/unix-permissions-for-umucs-nova-server-explained/</link>
       <pubDate>Mon, 25 May 2015 00:00:00 +0000</pubDate>
       <guid>https://www.carnaghan.com/unix-permissions-for-umucs-nova-server-explained/</guid>
-      <description>&lt;p&gt;All files and directories created in a Unix environment such as Nova are assigned permissions based on the level of access available to different user groups. In order to understand permissions better, we will discuss users, groups and ownership.&lt;/p&gt;&#xA;&lt;h2 id=&#34;users&#34;&gt;Users&lt;/h2&gt;&#xA;&lt;p&gt;Unix is a multi-user operating system. It serves many users who have ownership or certain privileges of resources on the system. You have recently set up a Nova account at UMUC and therefore have become one of its users.&lt;/p&gt;</description>
+      <description>&lt;p&gt;All files and directories created in a Unix environment such as Nova are assigned permissions based on the level of access available to different user groups. In order to understand permissions better, we will discuss users, groups and ownership.&lt;/p&gt;
+&lt;h2 id=&#34;users&#34;&gt;Users&lt;/h2&gt;
+&lt;p&gt;Unix is a multi-user operating system. It serves many users who have ownership or certain privileges of resources on the system. You have recently set up a Nova account at UMUC and therefore have become one of its users.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
