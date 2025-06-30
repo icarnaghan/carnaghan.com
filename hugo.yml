@@ -57,7 +57,7 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: Ian Carnaghan
-    subtitle: "Software developer and online educator who likes to keep up with all the latest in technology."
+    subtitle: "Software developer and online educator. I like to tinker with code, break things, and try to keep up with the ever-changing world of web development, DevOps, cloud, AI, and other tech fields. This site is a mix of articles, tutorials, lessons learned, and the occasional academic paper or random note I've compiled over the years."
     imageUrl: "/images/icarnaghan.jpg"
     imageWidth: 120
     imageHeight: 120
@@ -82,8 +82,12 @@ params:
       url: "https://github.com/icarnaghan"
     - name: linkedin
       url: "https://www.linkedin.com/in/icarnaghan/"
+    - name: google-scholar
+      url: "https://scholar.google.com/citations?user=XIrEJuYAAAAJ&hl=en"
     - name: youtube
       url: "https://www.youtube.com/@IanCarnaghan"
+    - name: codepen
+      url: "https://codepen.io/icarnaghan"
     - name: rss
       url: "/index.xml"
 
