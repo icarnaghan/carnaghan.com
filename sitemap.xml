@@ -2,10 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.carnaghan.com/categories/</loc>
+    <lastmod>2025-06-29T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://www.carnaghan.com/tags/cka/</loc>
     <lastmod>2025-06-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.carnaghan.com/cka-study-notes-kubernetes-scheduler/</loc>
+    <lastmod>2025-06-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.carnaghan.com/categories/coding/</loc>
     <lastmod>2025-06-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.carnaghan.com/tags/devops/</loc>
@@ -26,13 +32,7 @@
     <loc>https://www.carnaghan.com/tags/</loc>
     <lastmod>2025-06-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.carnaghan.com/categories/</loc>
-    <lastmod>2025-06-27T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://www.carnaghan.com/tags/cicd/</loc>
-    <lastmod>2025-06-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.carnaghan.com/categories/coding/</loc>
     <lastmod>2025-06-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.carnaghan.com/tags/hugo/</loc>
