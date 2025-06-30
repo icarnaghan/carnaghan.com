@@ -5,7 +5,10 @@ date: 2025-06-23
 categories: 
   - "coding"
 tags: 
-  - "cka, kubernetes"
+  - "cka"
+  - "kubernetes"
+  - "devops"
+  - "kubectl"
 ---
 
 I've recently started studying for the Certified Kubernetes Administrator (CKA) exam and as such I'm capturing some of my study notes here. When you're first diving into Kubernetes, the command-line tool kubectl becomes your new best friend. But like any new tool, remembering the right commands can be challengins, especially when you're trying to troubleshoot or quickly inspect your cluster.
