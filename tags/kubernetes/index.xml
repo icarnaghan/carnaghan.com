@@ -20,5 +20,13 @@
       <guid>https://www.carnaghan.com/cka-study-notes-kubernetes-scheduler/</guid>
       <description>Exploring how Kubernetes schedules pods, with examples of taints, tolerations, affinity rules, and useful debugging commands.</description>
     </item>
+    <item>
+      <title>CKA Study Notes - kubectl Basics</title>
+      <link>https://www.carnaghan.com/cka-study-notes-kubectl-basics/</link>
+      <pubDate>Mon, 23 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/cka-study-notes-kubectl-basics/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve recently started studying for the Certified Kubernetes Administrator (CKA) exam and as such I&amp;rsquo;m capturing some of my study notes here. When you&amp;rsquo;re first diving into Kubernetes, the command-line tool kubectl becomes your new best friend. But like any new tool, remembering the right commands can be challengins, especially when you&amp;rsquo;re trying to troubleshoot or quickly inspect your cluster.&lt;/p&gt;
+&lt;p&gt;This is my own quick-reference guide for working with kubectl, with just enough commentary to help it stick. If you&amp;rsquo;re interested in learning more I would recommend visiting the &lt;a href=&#34;https://kubernetes.io/docs/home/&#34;&gt;Official Kubernetes Documentation site&lt;/a&gt;, which covers everything you need.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
