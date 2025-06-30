@@ -1,6 +1,8 @@
 ---
 title: "CKA Study Notes - Kubernetes Scheduler"
 date: 2025-06-29
+categories: 
+  - "coding"
 description: "Exploring how Kubernetes schedules pods, with examples of taints, tolerations, affinity rules, and useful debugging commands."
 tags: ["CKA", "Kubernetes", "Scheduler", "DevOps"]
 ---
