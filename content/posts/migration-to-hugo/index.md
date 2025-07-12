@@ -81,6 +81,21 @@ A few things to highlight:
 - The peaceiris/actions-gh-pages action handles all the logic around committing and pushing the generated site to the correct branch.
 - The permissions: contents: write section is necessary to allow the action to push to the gh-pages branch.
 
+### Actions Used
+
+1. [actions/checkout@v4](https://github.com/actions/checkout) - GitHub's official action that checks out your repo code into the workflow runner, used at the start of most workflows. This action clones my repository into the runner (e.g., Ubuntu VM), so the following steps (like hugo build) can access my files.
+
+2. [peaceiris/actions-hugo@v3](https://github.com/peaceiris/actions-hugo) - A community-maintained action that installs Hugo on the runner. This action lets you easily choose Hugo versions (e.g., latest, 0.124.1). It downloads the correct Hugo binary and adds it to the PATH. Finally it prepares the runner for building Hugo content.
+
+3. [peaceiris/actions-gh-pages@v3](https://github.com/peaceiris/actions-gh-pages) - Another action by peaceiris that deploys a static site to GitHub Pages. This essentially automates the git commit + git push to a gh-pages branch:
+
+- Takes a folder (e.g., public/)
+- Initializes a Git repo inside that folder (in the runner)
+- Commits the contents
+- Pushes it to the GitHub repo's gh-pages branch (or another you specify)
+
+In addition, it also handles all the setup and edge cases like clean deploys, keeping commit history clean, and authentication via GITHUB_TOKEN or PAT.
+
 ## Configuring GitHub Pages
 Once the workflow is in place, I went to the repository settings on GitHub:
 
