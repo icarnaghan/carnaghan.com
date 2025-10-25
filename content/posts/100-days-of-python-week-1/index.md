@@ -8,7 +8,7 @@ tags:
   - "python"
 ---
 
-I've recently started working through [100 Days of Code: The Complete Python Pro Bootcamp](https://www.udemy.com/course/100-days-of-code/) course on Udemy. My goal isn’t just to complete the course (we'll see how far I actuallyg get...), but really just to use it as a structured way to ramp up on Python again. Even though I’ve spent most of my career either as a software developer or technical lead, I haven’t done a ton of no-kidding, hands-on coding with Python directly. Most of my earlier coding experience has been with C#, JavaScript, some PHP and in recent years more of my day-to-day work has increasingly involved Python. While I consider myself at the intermediate level I decided to jump right in at the beginning of this course to make sure I'm not overlooking some important fundamentals.
+I've recently started working through [100 Days of Code: The Complete Python Pro Bootcamp](https://www.udemy.com/course/100-days-of-code/) course on Udemy. My goal isn’t just to complete the course (we'll see how far I actually get...), but really just to use it as a structured way to ramp up on Python again. Even though I’ve spent most of my career either as a software developer or technical lead, I haven’t done a ton of no-kidding, hands-on coding with Python directly. Most of my earlier coding experience has been with C#, JavaScript, some PHP and in recent years more of my day-to-day work has increasingly involved Python. While I consider myself at the intermediate level I decided to jump right in at the beginning of this course to make sure I'm not overlooking some important fundamentals.
 
 ## Back to the Basics
 
