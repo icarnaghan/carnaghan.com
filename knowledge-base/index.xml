@@ -9,7 +9,7 @@
       <url>https://www.carnaghan.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://www.carnaghan.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- 0.148.1</generator>
+    <generator>Hugo -- 0.152.2</generator>
     <language>en</language>
     <lastBuildDate>Fri, 18 Jan 2019 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.carnaghan.com/knowledge-base/index.xml" rel="self" type="application/rss+xml" />
@@ -7783,7 +7783,8 @@ echo $new_string; //This will output Thisisateststring
 &lt;blockquote&gt;
 &lt;p&gt;&lt;em&gt;//Array with duplicate values&lt;/em&gt; $array = array(&amp;ldquo;test&amp;rdquo;,&amp;ldquo;test1&amp;rdquo;,&amp;ldquo;test&amp;rdquo;,&amp;ldquo;sum&amp;rdquo;,&amp;ldquo;minus&amp;rdquo;,&amp;ldquo;max&amp;rdquo;,&amp;ldquo;max&amp;rdquo;,&amp;ldquo;max&amp;rdquo;,&amp;ldquo;min&amp;rdquo;);&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;//Removing duplicate values&lt;/em&gt; $newArray = &lt;strong&gt;array_unique&lt;/strong&gt;($array);&lt;/p&gt;
-&lt;p&gt;echo &amp;lsquo;&lt;!-- raw HTML omitted --&gt;&amp;rsquo;; print_r($newArray);&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;echo &amp;lsquo;&lt;!-- raw HTML omitted --&gt;&amp;rsquo;; print_r($newArray);&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;&lt;em&gt;&lt;strong&gt;?&amp;gt;&lt;/strong&gt;&lt;/em&gt; &lt;/p&gt;
 &lt;p&gt;**OUTPUT:&lt;/p&gt;
 &lt;p&gt;**&lt;/p&gt;

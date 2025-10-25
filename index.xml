@@ -9,10 +9,17 @@
       <url>https://www.carnaghan.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://www.carnaghan.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- 0.148.1</generator>
+    <generator>Hugo -- 0.152.2</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 29 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Oct 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.carnaghan.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>100 Days of Python - Week 1 Retrospective</title>
+      <link>https://www.carnaghan.com/100-days-of-python-week-1-retrospective/</link>
+      <pubDate>Fri, 10 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.carnaghan.com/100-days-of-python-week-1-retrospective/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve recently started working through &lt;a href=&#34;https://www.udemy.com/course/100-days-of-code/&#34;&gt;100 Days of Code: The Complete Python Pro Bootcamp&lt;/a&gt; course on Udemy. My goal isn’t just to complete the course (we&amp;rsquo;ll see how far I actuallyg get&amp;hellip;), but really just to use it as a structured way to ramp up on Python again. Even though I’ve spent most of my career either as a software developer or technical lead, I haven’t done a ton of no-kidding, hands-on coding with Python directly. Most of my earlier coding experience has been with C#, JavaScript, some PHP and in recent years more of my day-to-day work has increasingly involved Python. While I consider myself at the intermediate level I decided to jump right in at the beginning of this course to make sure I&amp;rsquo;m not overlooking some important fundamentals.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>CKA Study Notes - Kubernetes Scheduler</title>
       <link>https://www.carnaghan.com/cka-study-notes-kubernetes-scheduler/</link>
@@ -8406,7 +8413,8 @@ echo $new_string; //This will output Thisisateststring
 &lt;blockquote&gt;
 &lt;p&gt;&lt;em&gt;//Array with duplicate values&lt;/em&gt; $array = array(&amp;ldquo;test&amp;rdquo;,&amp;ldquo;test1&amp;rdquo;,&amp;ldquo;test&amp;rdquo;,&amp;ldquo;sum&amp;rdquo;,&amp;ldquo;minus&amp;rdquo;,&amp;ldquo;max&amp;rdquo;,&amp;ldquo;max&amp;rdquo;,&amp;ldquo;max&amp;rdquo;,&amp;ldquo;min&amp;rdquo;);&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;//Removing duplicate values&lt;/em&gt; $newArray = &lt;strong&gt;array_unique&lt;/strong&gt;($array);&lt;/p&gt;
-&lt;p&gt;echo &amp;lsquo;&lt;!-- raw HTML omitted --&gt;&amp;rsquo;; print_r($newArray);&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;echo &amp;lsquo;&lt;!-- raw HTML omitted --&gt;&amp;rsquo;; print_r($newArray);&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;&lt;em&gt;&lt;strong&gt;?&amp;gt;&lt;/strong&gt;&lt;/em&gt; &lt;/p&gt;
 &lt;p&gt;**OUTPUT:&lt;/p&gt;
 &lt;p&gt;**&lt;/p&gt;
@@ -13661,7 +13669,8 @@ There are clearly many advantages to this new connected world and services that 
       <description>&lt;blockquote&gt;
 &lt;p&gt;The Internet was the result of some visionary people in the early 1960s who saw great potential value in allowing computers to share information on research and development in scientific and military fields.&lt;/p&gt;
 &lt;p&gt;Howe, W (1998) A Brief History of the Internet&lt;br&gt;
-&lt;a href=&#34;http://www0.delphi.com/navnet/faq/history.html&#34;&gt;http://www0.delphi.com/navnet/faq/history.html&lt;/a&gt; (January 28th, 2000)&lt;/p&gt;&lt;/blockquote&gt;
+&lt;a href=&#34;http://www0.delphi.com/navnet/faq/history.html&#34;&gt;http://www0.delphi.com/navnet/faq/history.html&lt;/a&gt; (January 28th, 2000)&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;h3 id=&#34;history-of-the-internet&#34;&gt;History of the Internet&lt;/h3&gt;
 &lt;p&gt;The Internet has had a relatively brief but also explosive history over the last few decades. It originated from an experiment, started by the U.S. Department of Defence during the 1960s. The Department of Defence wanted to create a computer network that would continue to function in the event of a disaster, such as a nuclear war.&lt;/p&gt;</description>
     </item>
